@@ -1,0 +1,565 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Franklin County Excess Funds Leads</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #17140f;
+    --panel: #201b14;
+    --panel-2: #2a2419;
+    --border: #3d3625;
+    --ink: #efe8d8;
+    --ink-dim: #a99c81;
+    --ink-faint: #766a53;
+    --gold: #c9a24b;
+    --gold-dim: #8a6f38;
+    --good-bg: #21301f; --good-fg: #a8d1a0;
+    --warn-bg: #362b12; --warn-fg: #e0bd7a;
+    --bad-bg: #331c17;  --bad-fg: #e0a89c;
+    color-scheme: dark;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'IBM Plex Sans', -apple-system, Segoe UI, Roboto, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .wrap { max-width: 1320px; margin: 0 auto; padding: 2.5rem 1.75rem 5rem; }
+
+  header h1 {
+    font-family: 'Source Serif 4', Georgia, serif;
+    font-weight: 600;
+    font-size: 1.9rem;
+    margin: 0 0 .3rem;
+    letter-spacing: -0.01em;
+  }
+  header p.tagline {
+    color: var(--ink-dim);
+    margin: 0 0 1.1rem;
+    max-width: 60ch;
+  }
+  .stats {
+    color: var(--ink-dim);
+    font-size: .88rem;
+    margin: 0 0 1.6rem;
+    padding-bottom: 1.4rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .stats strong { color: var(--ink); font-weight: 600; }
+  .stats a { color: var(--gold); text-decoration: none; border-bottom: 1px solid var(--gold-dim); }
+  .stats a:hover { color: var(--ink); }
+
+  .toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .6rem;
+    align-items: center;
+    margin-bottom: 1.2rem;
+  }
+  .toolbar input[type="search"] {
+    flex: 1 1 16rem;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    color: var(--ink);
+    padding: .55rem .8rem;
+    border-radius: .35rem;
+    font-size: .9rem;
+  }
+  .toolbar input[type="search"]::placeholder { color: var(--ink-faint); }
+  .toolbar select {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    color: var(--ink);
+    padding: .55rem .7rem;
+    border-radius: .35rem;
+    font-size: .85rem;
+  }
+  .toolbar label.check {
+    display: flex;
+    align-items: center;
+    gap: .4rem;
+    color: var(--ink-dim);
+    font-size: .85rem;
+    white-space: nowrap;
+    padding: .3rem .2rem;
+  }
+  .toolbar label.check input { accent-color: var(--gold); }
+
+  table { width: 100%; border-collapse: collapse; }
+  thead th {
+    position: sticky; top: 0;
+    background: var(--panel-2);
+    text-align: left;
+    padding: .65rem .7rem;
+    font-weight: 500;
+    color: var(--ink-dim);
+    font-size: .78rem;
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+  }
+  thead th:hover { color: var(--ink); }
+  thead th.sorted { color: var(--gold); }
+  thead th .arrow { font-size: .7em; opacity: .8; margin-left: .15rem; }
+
+  tbody tr.row { cursor: pointer; border-bottom: 1px solid var(--border); }
+  tbody tr.row:hover { background: var(--panel); }
+  tbody tr.row.expanded { background: var(--panel); }
+  tbody td { padding: .65rem .7rem; vertical-align: top; }
+
+  .score {
+    display: inline-block;
+    min-width: 2.1rem;
+    text-align: center;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    padding: .15rem .45rem;
+    border-radius: .3rem;
+  }
+  .score-hi  { background: var(--good-bg); color: var(--good-fg); }
+  .score-mid { background: var(--warn-bg); color: var(--warn-fg); }
+  .score-lo  { background: var(--bad-bg);  color: var(--bad-fg); }
+
+  .mono { font-family: 'IBM Plex Mono', monospace; font-size: .82rem; color: var(--ink-dim); }
+  .muted { color: var(--ink-faint); }
+  .amount { font-variant-numeric: tabular-nums; }
+
+  .flag {
+    display: inline-block;
+    background: var(--panel-2);
+    border: 1px solid var(--border);
+    border-radius: .25rem;
+    padding: .1rem .4rem;
+    margin: 0 .25rem .25rem 0;
+    font-size: .72rem;
+    color: var(--ink-dim);
+  }
+  .flag.hot { border-color: var(--gold-dim); color: var(--gold); }
+
+  .detail-row td {
+    background: #1b170f;
+    border-bottom: 1px solid var(--border);
+    padding: 1rem 1.4rem 1.3rem;
+  }
+  .detail-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem 1.6rem;
+  }
+  .detail-grid dt {
+    font-size: .72rem;
+    text-transform: none;
+    color: var(--ink-faint);
+    margin-bottom: .15rem;
+  }
+  .detail-grid dd { margin: 0; }
+  .detail-grid .full { grid-column: 1 / -1; }
+
+  a.link { color: var(--gold); text-decoration: none; border-bottom: 1px solid var(--gold-dim); }
+  a.link:hover { color: var(--ink); }
+
+  #empty {
+    color: var(--ink-dim);
+    padding: 3rem 1rem;
+    text-align: center;
+    border: 1px dashed var(--border);
+    border-radius: .5rem;
+  }
+
+  @media (max-width: 720px) {
+    .wrap { padding: 1.5rem 1rem 4rem; }
+    thead th:nth-child(6), tbody td:nth-child(6) { display: none; } /* hide mailing address col on small screens */
+  }
+
+  .county-tabs {
+    display: flex;
+    gap: .25rem;
+    margin-bottom: 1.1rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .county-tabs button {
+    appearance: none;
+    background: none;
+    border: none;
+    color: var(--ink-dim);
+    font-family: inherit;
+    font-size: .92rem;
+    font-weight: 500;
+    padding: .6rem 1rem .55rem;
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+  }
+  .county-tabs button:hover { color: var(--ink); }
+  .county-tabs button[aria-selected="true"] {
+    color: var(--gold);
+    border-bottom-color: var(--gold);
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Excess Funds Leads</h1>
+    <p class="tagline" id="tagline">E-Foreclosure filings pulled nightly from the county Clerk of Courts, matched against parcel records, and scored for outreach.</p>
+  </header>
+
+  <div class="county-tabs" id="county-tabs" role="tablist"></div>
+
+  <div class="stats" id="stats">Loading records…</div>
+
+  <div class="toolbar">
+    <input id="search" type="search" placeholder="Search owner, address, case number…">
+    <select id="minScore">
+      <option value="0">Any score</option>
+      <option value="70">Score 70+</option>
+      <option value="50">Score 50+</option>
+      <option value="30">Score 30+</option>
+    </select>
+    <select id="flagFilter">
+      <option value="">Any flag</option>
+    </select>
+    <label class="check"><input type="checkbox" id="addressOnly"> Has address</label>
+  </div>
+
+  <div id="table-wrap"></div>
+  <div id="empty" style="display:none;">No excess funds cases on file yet — they'll appear after the first daily run.</div>
+</div>
+
+<script>
+const COLUMNS = [
+  { key: 'score', label: 'Score', sortable: true },
+  { key: 'owner', label: 'Owner', sortable: true },
+  { key: 'prop_address', label: 'Property', sortable: false },
+  { key: 'amount', label: 'Amount owed', sortable: true },
+  { key: 'filed', label: 'Filed', sortable: true },
+  { key: 'captured_date', label: 'Added', sortable: true },
+  { key: 'mail_address', label: 'Mailing address', sortable: false },
+  { key: 'flags', label: 'Flags', sortable: false },
+];
+
+const COUNTIES = [
+  {
+    key: 'excess',
+    label: 'Franklin Excess Funds',
+    dataUrl: 'excess_funds.json',
+    tagline: "Not foreclosure filings: money the Franklin County Clerk is holding from sheriff sales that sold for more than was owed (Excess Sales Proceeds report). The former owner or their heirs can usually claim it by motion. Checked daily; cases that drop off the Clerk's list are treated as claimed.",
+    csvUrl: 'excess_funds_ghl_export.csv',
+    // Lives in its own repo (franklin-excess-funds) and publishes excess_funds.json on its own GitHub Pages site.
+    // One record = one CASE with all of its deposits summed.
+    columns: [
+      { key: 'score', label: 'Score', sortable: true },
+      { key: 'owner', label: 'Former owner', sortable: true },
+      { key: 'prop_address', label: 'Property', sortable: false },
+      { key: 'amount', label: 'Surplus held', sortable: true },
+      { key: 'filed', label: 'Deposited', sortable: true },
+      { key: 'captured_date', label: 'Added', sortable: true },
+      { key: 'mail_address', label: 'Mailing address', sortable: false },
+      { key: 'flags', label: 'Flags', sortable: false },
+    ],
+    adapt(data) {
+      const records = (data.leads || []).map(l => ({
+        doc_num: l.case_number,
+        case_number: l.case_number,
+        doc_type: 'Excess Sales Proceeds',
+        filed: l.deposit_date,
+        captured_date: l.first_seen,
+        owner: l.owner,
+        grantee: l.plaintiff,
+        amount: l.amount,
+        legal: '',
+        prop_address: l.prop_address,
+        prop_city: l.prop_city,
+        prop_state: l.prop_state,
+        prop_zip: l.prop_zip,
+        mail_address: l.mail_address,
+        mail_city: l.mail_city,
+        mail_state: l.mail_state,
+        mail_zip: l.mail_zip,
+        flags: l.flags || [],
+        score: l.score,
+        raw: l,
+      }));
+      const total = data.total_surplus != null ? ' ($' + Number(data.total_surplus).toLocaleString() + ' held)' : '';
+      return {
+        fetched_at: data.generated_at ? data.generated_at + total : null,
+        total: data.total_leads || 0,
+        with_address: data.leads_with_mailing_address || 0,
+        new_this_run: data.new_this_run || 0,
+        records,
+      };
+    },
+    detailHTML(r) {
+      const x = r.raw;
+      const extra = Object.entries(x.extra || {});
+      return `
+        <dl class="detail-grid">
+          <div class="full"><dt>Why it scored ${r.score}</dt><dd>${esc((x.score_reasons || []).join(' · '))}</dd></div>
+          <div><dt>Case number</dt><dd class="mono">${esc(x.case_number)}</dd></div>
+          <div><dt>Surplus on deposit</dt><dd>${money(x.amount)}${x.row_count > 1 ? ` <span class="muted">(${x.row_count} deposits)</span>` : ''}</dd></div>
+          <div><dt>Plaintiff</dt><dd>${esc(x.plaintiff) || '—'}${x.tax_foreclosure ? ' <span class="muted">(tax foreclosure)</span>' : ''}</dd></div>
+          <div><dt>Owner type</dt><dd>${esc(x.owner_type) || '—'}</dd></div>
+          <div><dt>Deposited / sale date</dt><dd>${esc(x.deposit_date) || '—'} / ${esc(x.sale_date) || '—'}</dd></div>
+          <div><dt>First seen on Clerk list</dt><dd>${esc(x.first_seen) || '—'}</dd></div>
+          <div class="full"><dt>All defendants (as listed)</dt><dd>${esc(x.defendants_raw || x.caption) || '—'}</dd></div>
+          <div class="full"><dt>Property address${x.address_source ? ' <span class="muted">— ' + esc(x.address_source) + '</span>' : ''}</dt><dd>${esc(fullPropAddress(r)) || '—'}</dd></div>
+          <div class="full"><dt>Mailing address</dt><dd>${esc(fullMailAddress(r)) || '—'}</dd></div>
+          ${x.parcel_number ? `<div><dt>Parcel</dt><dd class="mono">${esc(x.parcel_number)}</dd></div>` : ''}
+          ${extra.map(([k, v]) => `<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join('')}
+          <div class="full"><dd>
+            <a class="link" href="${esc(x.case_search_url)}" target="_blank" rel="noopener">Look up case ${esc(x.case_number)} (Clerk case search) →</a><br>
+            <a class="link" href="${esc(x.source_url)}" target="_blank" rel="noopener">Source: Clerk's Excess Sales Proceeds report →</a><br>
+            <a class="link" href="https://clerk.franklincountyohio.gov/Resources/Foreclosure-Excess-Fund-Process" target="_blank" rel="noopener">How funds are claimed (motion + hearing) →</a>
+          </dd></div>
+        </dl>`;
+    },
+  },
+];
+
+let ACTIVE_COUNTY = COUNTIES[0];
+let ALL_RECORDS = [];
+let SORT_KEY = 'score';
+let SORT_DIR = -1; // -1 desc, 1 asc
+let EXPANDED_DOC_NUM = null;
+
+function scoreClass(s) {
+  if (s >= 70) return 'score-hi';
+  if (s >= 45) return 'score-mid';
+  return 'score-lo';
+}
+
+function money(n) {
+  return n != null ? '$' + Number(n).toLocaleString() : '—';
+}
+
+function esc(s) {
+  return (s ?? '').toString().replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+function fullMailAddress(r) {
+  const parts = [r.mail_address, r.mail_city, [r.mail_state, r.mail_zip].filter(Boolean).join(' ')].filter(Boolean);
+  return parts.join(', ');
+}
+
+function fullPropAddress(r) {
+  const parts = [r.prop_address, r.prop_city, [r.prop_state, r.prop_zip].filter(Boolean).join(' ')].filter(Boolean);
+  return parts.join(', ');
+}
+
+function detailHTML(r) {
+  return `
+    <dl class="detail-grid">
+      <div><dt>Case number</dt><dd class="mono">${esc(r.case_number) || '—'}</dd></div>
+      <div><dt>Document type</dt><dd>${esc(r.doc_type) || '—'}</dd></div>
+      <div><dt>Plaintiff / lender</dt><dd>${esc(r.grantee) || '—'}</dd></div>
+      <div><dt>Loan type</dt><dd>${esc(r.loan_type) || '—'}</dd></div>
+      <div><dt>Interest rate</dt><dd>${r.interest_rate != null ? r.interest_rate + '%' : '—'}</dd></div>
+      <div><dt>Document number</dt><dd class="mono">${esc(r.doc_num)}</dd></div>
+      <div class="full"><dt>Property address</dt><dd>${esc(fullPropAddress(r)) || '—'}</dd></div>
+      <div class="full"><dt>Mailing address</dt><dd>${esc(fullMailAddress(r)) || '—'}</dd></div>
+      ${r.legal ? `<div class="full"><dt>Legal description</dt><dd>${esc(r.legal)}</dd></div>` : ''}
+      <div class="full"><dd><a class="link" href="${esc(r.clerk_url)}" target="_blank" rel="noopener">View filing on the Clerk of Courts site →</a></dd></div>
+    </dl>
+  `;
+}
+
+function render(list) {
+  const wrap = document.getElementById('table-wrap');
+  const empty = document.getElementById('empty');
+
+  if (!list.length) {
+    wrap.innerHTML = '';
+    empty.style.display = 'block';
+    return;
+  }
+  empty.style.display = 'none';
+
+  const table = document.createElement('table');
+  const thead = document.createElement('thead');
+  const headRow = document.createElement('tr');
+  const cols = ACTIVE_COUNTY.columns || COLUMNS;
+  for (const col of cols) {
+    const th = document.createElement('th');
+    th.textContent = col.label;
+    if (col.sortable) {
+      if (col.key === SORT_KEY) {
+        th.classList.add('sorted');
+        th.innerHTML = `${col.label} <span class="arrow">${SORT_DIR === 1 ? '↑' : '↓'}</span>`;
+      }
+      th.addEventListener('click', () => {
+        if (SORT_KEY === col.key) SORT_DIR *= -1;
+        else { SORT_KEY = col.key; SORT_DIR = -1; }
+        applyFilters();
+      });
+    }
+    headRow.appendChild(th);
+  }
+  thead.appendChild(headRow);
+  table.appendChild(thead);
+
+  const tbody = document.createElement('tbody');
+  for (const r of list) {
+    const tr = document.createElement('tr');
+    tr.className = 'row' + (r.doc_num === EXPANDED_DOC_NUM ? ' expanded' : '');
+    const flagsHTML = (r.flags || []).map(f =>
+      `<span class="flag${/lis pendens|pre-foreclosure|probate|out-of-state|also in foreclosure|heirs|25k/i.test(f) ? ' hot' : ''}">${esc(f)}</span>`
+    ).join('');
+    tr.innerHTML = ACTIVE_COUNTY.rowHTML ? ACTIVE_COUNTY.rowHTML(r, flagsHTML) : `
+      <td><span class="score ${scoreClass(r.score)}">${r.score}</span></td>
+      <td>${esc(r.owner) || '—'}</td>
+      <td>${esc(r.prop_address) || '—'}${r.prop_city ? `<br><span class="muted">${esc(r.prop_city)}${r.prop_zip ? ', ' + esc(r.prop_zip) : ''}</span>` : ''}</td>
+      <td class="amount">${money(r.amount)}</td>
+      <td>${esc(r.filed) || '—'}</td>
+      <td>${esc(r.captured_date) || '<span class="muted" title="Added before date tracking began">—</span>'}</td>
+      <td>${esc(fullMailAddress(r)) || '<span class="muted">not matched</span>'}</td>
+      <td>${flagsHTML}</td>
+    `;
+    tr.addEventListener('click', () => {
+      EXPANDED_DOC_NUM = EXPANDED_DOC_NUM === r.doc_num ? null : r.doc_num;
+      applyFilters();
+    });
+    tbody.appendChild(tr);
+
+    if (r.doc_num === EXPANDED_DOC_NUM) {
+      const detailTr = document.createElement('tr');
+      detailTr.className = 'detail-row';
+      const td = document.createElement('td');
+      td.colSpan = cols.length;
+      td.innerHTML = (ACTIVE_COUNTY.detailHTML || detailHTML)(r);
+      detailTr.appendChild(td);
+      tbody.appendChild(detailTr);
+    }
+  }
+  table.appendChild(tbody);
+  wrap.innerHTML = '';
+  wrap.appendChild(table);
+}
+
+function applyFilters() {
+  const q = document.getElementById('search').value.trim().toLowerCase();
+  const minScore = Number(document.getElementById('minScore').value);
+  const flag = document.getElementById('flagFilter').value;
+  const addressOnly = document.getElementById('addressOnly').checked;
+
+  let list = ALL_RECORDS.filter(r => {
+    if (r.score < minScore) return false;
+    if (flag && !(r.flags || []).includes(flag)) return false;
+    if (addressOnly && !(r.prop_address || r.mail_address)) return false;
+    if (q) {
+      const hay = [r.owner, r.grantee, r.prop_address, r.mail_address, r.doc_num, r.case_number]
+        .filter(Boolean).join(' ').toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+
+  list.sort((a, b) => {
+    let av = a[SORT_KEY], bv = b[SORT_KEY];
+    const numeric = ['amount', 'score', 'filings_12m', 'property_count', 'open_records', 'oldest_open_days'].includes(SORT_KEY);
+    if (av == null) av = numeric ? -Infinity : '';
+    if (bv == null) bv = numeric ? -Infinity : '';
+    if (typeof av === 'string') av = av.toLowerCase();
+    if (typeof bv === 'string') bv = bv.toLowerCase();
+    if (av < bv) return -1 * SORT_DIR;
+    if (av > bv) return 1 * SORT_DIR;
+    return 0;
+  });
+
+  render(list);
+}
+
+function populateFlagFilter(records) {
+  const select = document.getElementById('flagFilter');
+  select.innerHTML = '<option value="">Any flag</option>';
+  select.value = '';
+  const seen = new Set();
+  for (const r of records) for (const f of (r.flags || [])) seen.add(f);
+  for (const f of Array.from(seen).sort()) {
+    const opt = document.createElement('option');
+    opt.value = f;
+    opt.textContent = f;
+    select.appendChild(opt);
+  }
+}
+
+const DATA_CACHE = {};
+let FILTERS_WIRED = false;
+
+function renderTabs() {
+  const tabsEl = document.getElementById('county-tabs');
+  tabsEl.innerHTML = COUNTIES.map(c => `
+    <button role="tab" data-key="${c.key}" aria-selected="${c.key === ACTIVE_COUNTY.key}">${esc(c.label)}</button>
+  `).join('');
+  tabsEl.querySelectorAll('button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      if (btn.dataset.key === ACTIVE_COUNTY.key) return;
+      ACTIVE_COUNTY = COUNTIES.find(c => c.key === btn.dataset.key);
+      EXPANDED_DOC_NUM = null;
+      SORT_KEY = 'score'; SORT_DIR = -1;
+      renderTabs();
+      loadActive();
+    });
+  });
+}
+
+async function loadActive() {
+  const county = ACTIVE_COUNTY;
+  const stats = document.getElementById('stats');
+  document.getElementById('tagline').textContent = county.tagline;
+  stats.textContent = `Loading ${county.label} records…`;
+  document.getElementById('empty').style.display = 'none';
+  document.getElementById('table-wrap').innerHTML = '';
+
+  let data;
+  try {
+    if (DATA_CACHE[county.key]) {
+      data = DATA_CACHE[county.key];
+    } else {
+      const res = await fetch(county.dataUrl, { cache: 'no-store' });
+      if (!res.ok) throw new Error(`${res.status} fetching ${county.dataUrl}`);
+      const raw = await res.json();
+      data = county.adapt(raw);
+      DATA_CACHE[county.key] = data;
+    }
+  } catch (err) {
+    stats.textContent = `Failed to load ${county.label} data: ` + err;
+    return;
+  }
+
+  if (!data.fetched_at) {
+    stats.textContent = 'No scrape has run yet for ' + county.label + '.';
+    ALL_RECORDS = [];
+    document.getElementById('empty').style.display = 'block';
+    return;
+  }
+
+  stats.innerHTML = `<strong>${data.total}</strong> leads on file, <strong>${data.with_address}</strong> with a mailing address.
+    ${data.new_this_run ? `<strong>${data.new_this_run}</strong> new as of the last run.` : ''}
+    Last fetched ${esc(data.fetched_at)}. <a href="${esc(county.csvUrl)}">Download CSV for GoHighLevel →</a>`;
+
+  ALL_RECORDS = data.records;
+  populateFlagFilter(ALL_RECORDS);
+  applyFilters();
+
+  if (!FILTERS_WIRED) {
+    FILTERS_WIRED = true;
+    document.getElementById('search').addEventListener('input', applyFilters);
+    document.getElementById('minScore').addEventListener('change', applyFilters);
+    document.getElementById('flagFilter').addEventListener('change', applyFilters);
+    document.getElementById('addressOnly').addEventListener('change', applyFilters);
+  }
+}
+
+renderTabs();
+loadActive();
+</script>
+</body>
+</html>

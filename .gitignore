@@ -1,0 +1,4 @@
+.cache/
+__pycache__/
+*.pyc
+scraper/excesssalesproceeds_sample.xlsx

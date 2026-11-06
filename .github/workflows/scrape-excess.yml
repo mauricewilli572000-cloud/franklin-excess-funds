@@ -1,0 +1,83 @@
+name: Franklin County Excess Funds Scrape
+
+# Own repo, own schedule, own GitHub Pages site (same pattern as Summit /
+# evictions / Cleveland). The combined dashboard in franklin-foreclosure-scraper
+# reads excess_funds.json from this repo's Pages URL.
+
+on:
+  schedule:
+    - cron: "17 9 * * *"   # 09:17 UTC daily (~4:17 AM America/New_York)
+  workflow_dispatch:
+    inputs:
+      skip_parcels:
+        description: "Skip the Auditor parcel CSV (faster test run)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "scrape-excess-funds"
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install Python dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Install Playwright Chromium (only used if plain download is blocked)
+        run: python -m playwright install --with-deps chromium
+
+      - name: Run scraper
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: |
+          ARGS=()
+          if [ "${{ github.event.inputs.skip_parcels }}" = "true" ]; then ARGS+=(--skip-parcels); fi
+          python scraper/excess_funds.py "${ARGS[@]}"
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "excess-funds-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add dashboard/excess_funds.json dashboard/excess_funds_ghl_export.csv data/history.json data/last_run_debug.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Automated excess funds scrape: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+      - name: Upload dashboard artifact for Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dashboard
+
+  deploy-pages:
+    needs: scrape
+    runs-on: ubuntu-22.04
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
