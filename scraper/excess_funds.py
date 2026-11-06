@@ -691,6 +691,16 @@ def name_keys(raw: str) -> set[str]:
 class ParcelIndex:
     by_parcel: dict[str, dict]
     by_name: dict[str, Optional[dict]]   # None = ambiguous (2+ different mailing addresses)
+    bulk_mail: set = field(default_factory=set)  # addresses that get tax bills for many owners (servicers)
+
+
+# A mailing address that receives tax bills for this many different owners is
+# a mortgage tax-servicing company / management firm, not the owner.
+BULK_MAIL_OWNERS = 15
+
+
+def mail_key(rec: dict) -> str:
+    return re.sub(r"[^A-Z0-9]", "", f"{rec.get('mail_address', '')}{rec.get('mail_city', '')}".upper())
 
 
 def _list_dir(session: requests.Session, url: str) -> list[str]:
@@ -748,6 +758,7 @@ def load_parcel_index(session: requests.Session) -> Optional[ParcelIndex]:
 def build_parcel_index(path: Path) -> ParcelIndex:
     by_parcel: dict[str, dict] = {}
     by_name: dict[str, Optional[dict]] = {}
+    owners_at: dict[str, set] = {}
     with path.open("r", encoding="utf-8-sig", newline="") as f:
         reader = csv.DictReader(f)
         upper = {h.upper().strip(): h for h in (reader.fieldnames or [])}
@@ -767,14 +778,21 @@ def build_parcel_index(path: Path) -> ParcelIndex:
             pid = digits(get_field(row, PARCEL_ID_COLUMNS, upper))
             if pid:
                 by_parcel[pid] = rec
+            mk = mail_key(rec)
+            if mk:
+                bucket = owners_at.setdefault(mk, set())
+                if len(bucket) <= BULK_MAIL_OWNERS:
+                    bucket.add(owner.upper())
             for k in index_keys(owner):
                 prev = by_name.get(k, "missing")
                 if prev == "missing":
                     by_name[k] = rec
                 elif prev is not None and prev["mail_address"] != rec["mail_address"]:
                     by_name[k] = None  # ambiguous — never guess between two people
-    log.info("Parcel index: %d parcel IDs, %d name keys", len(by_parcel), len(by_name))
-    return ParcelIndex(by_parcel, by_name)
+    bulk = {k for k, v in owners_at.items() if len(v) > BULK_MAIL_OWNERS}
+    log.info("Parcel index: %d parcel IDs, %d name keys, %d bulk/servicer mailing addresses ignored",
+             len(by_parcel), len(by_name), len(bulk))
+    return ParcelIndex(by_parcel, by_name, bulk)
 
 
 def enrich_from_parcels(leads: dict[str, ExcessLead], pidx: ParcelIndex) -> dict[str, int]:
@@ -793,7 +811,8 @@ def enrich_from_parcels(leads: dict[str, ExcessLead], pidx: ParcelIndex) -> dict
                     lead.address_source = lead.address_source or "Auditor parcel (parcel number)"
                 # Mailing address from the parcel only if the Auditor still lists
                 # our former owner — otherwise it's the sheriff-sale buyer's address.
-                if not lead.mail_address and name_keys(hit["owner"]) & name_keys(lead.owner):
+                if (not lead.mail_address and name_keys(hit["owner"]) & name_keys(lead.owner)
+                        and mail_key(hit) not in pidx.bulk_mail):
                     lead.mail_address, lead.mail_city = hit["mail_address"], hit["mail_city"]
                     lead.mail_state, lead.mail_zip = hit["mail_state"], hit["mail_zip"]
                 elif not name_keys(hit["owner"]) & name_keys(lead.owner):
@@ -807,6 +826,10 @@ def enrich_from_parcels(leads: dict[str, ExcessLead], pidx: ParcelIndex) -> dict
                 continue
             hit = v                            # None = ambiguous: stop, don't go looser
             break
+        if hit and mail_key(hit) in pidx.bulk_mail:
+            stats.setdefault("servicer_skipped", 0)
+            stats["servicer_skipped"] += 1
+            hit = None
         if hit:
             stats["name"] += 1
             lead.mail_address, lead.mail_city = hit["mail_address"], hit["mail_city"]
@@ -816,8 +839,8 @@ def enrich_from_parcels(leads: dict[str, ExcessLead], pidx: ParcelIndex) -> dict
                 lead.flags.append("Auditor name match - verify")
             if not lead.prop_address:
                 lead.address_source = "Auditor name match (another parcel they own)"
-    log.info("Parcel enrichment: %d by parcel number, %d by unique owner name",
-             stats["parcel"], stats["name"])
+    log.info("Parcel enrichment: %d by parcel number, %d by unique owner name, %d servicer addresses skipped",
+             stats["parcel"], stats["name"], stats.get("servicer_skipped", 0))
     return stats
 
 
@@ -925,8 +948,7 @@ def merge_history(current: dict[str, ExcessLead], history: dict[str, dict], toda
         lead.amount_history = hist[-12:]
         # Keep an address found on an earlier run if this run's enrichment missed it
         if prev:
-            for k in ("prop_address", "prop_city", "prop_state", "prop_zip", "mail_address",
-                      "mail_city", "mail_state", "mail_zip", "parcel_number", "address_source"):
+            for k in ("prop_address", "prop_city", "prop_state", "prop_zip", "parcel_number"):
                 if not getattr(lead, k) and prev.get(k):
                     setattr(lead, k, prev[k])
         merged.append(lead)
@@ -1053,12 +1075,6 @@ def run(xlsx_path: Optional[str], skip_parcels: bool, skip_foreclosures: bool) -
     if not skip_foreclosures:
         enrich_from_foreclosures(leads, load_foreclosure_index(session))
 
-    # Carry addresses from history before Auditor matching so we don't redo work
-    for cn, lead in leads.items():
-        prev = history.get(cn) or {}
-        if not lead.mail_address and prev.get("mail_address"):
-            for k in ("mail_address", "mail_city", "mail_state", "mail_zip"):
-                setattr(lead, k, prev.get(k, ""))
 
     if not skip_parcels:
         pidx = load_parcel_index(session)
