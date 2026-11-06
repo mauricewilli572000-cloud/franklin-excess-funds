@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T22:31:28+00:00",
+  "updated": "2026-11-06T22:35:19+00:00",
   "cases": {
     "22CV004678": {
       "case_number": "22CV004678",
@@ -16,25 +16,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$10k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 65,
+      "score": 50,
       "score_reasons": [
         "$20,316 on deposit (+27)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -47,9 +44,7 @@
           "amount": 20316.2
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "3090 CHEAVES PL"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -256,25 +251,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 72,
+      "score": 57,
       "score_reasons": [
         "$44,789 on deposit (+34)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -287,9 +279,7 @@
           "amount": 44788.56
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "5069 BECKENHAM CT"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -598,25 +588,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 72,
+      "score": 57,
       "score_reasons": [
         "$27,893 on deposit (+34)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -629,9 +616,7 @@
           "amount": 27893.48
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "4179 COLISTER DR"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -697,25 +682,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 78,
+      "score": 63,
       "score_reasons": [
         "$137,713 on deposit (+40)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -728,9 +710,7 @@
           "amount": 137713.26
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "4038 BLENDON POINT DR"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -843,25 +823,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 78,
+      "score": 63,
       "score_reasons": [
         "$59,278 on deposit (+40)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -874,9 +851,7 @@
           "amount": 59278.33
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "3435 LACON RD"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -993,24 +968,21 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 58,
+      "score": 43,
       "score_reasons": [
         "$7,330 on deposit (+20)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -1023,9 +995,7 @@
           "amount": 7330.44
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "5743 SHARP MILLS RUN"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -1236,25 +1206,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 78,
+      "score": 63,
       "score_reasons": [
         "$111,305 on deposit (+40)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -1267,9 +1234,7 @@
           "amount": 111304.75
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "5331 JOHN BROWNING DR"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -1335,25 +1300,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 78,
+      "score": 63,
       "score_reasons": [
         "$64,830 on deposit (+40)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -1366,9 +1328,7 @@
           "amount": 64830.42
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "807 ORCHARD GLEN CT"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -1387,25 +1347,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 72,
+      "score": 57,
       "score_reasons": [
         "$32,873 on deposit (+34)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -1418,9 +1375,7 @@
           "amount": 32873.45
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "522 CAMDENWAY CT"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -1583,25 +1538,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 72,
+      "score": 57,
       "score_reasons": [
         "$43,585 on deposit (+34)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -1614,9 +1566,7 @@
           "amount": 43584.96
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "162 INAH AVE"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -1635,24 +1585,21 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 58,
+      "score": 43,
       "score_reasons": [
         "$8,132 on deposit (+20)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -1665,9 +1612,7 @@
           "amount": 8131.93
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "3361 MERIDIAN RD"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -1779,25 +1724,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 78,
+      "score": 63,
       "score_reasons": [
         "$95,966 on deposit (+40)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -1810,9 +1752,7 @@
           "amount": 95965.9
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "1520 GRATTAN RD"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -2220,25 +2160,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 72,
+      "score": 57,
       "score_reasons": [
         "$49,863 on deposit (+34)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -2251,9 +2188,7 @@
           "amount": 49863.24
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "6823 GILETTE DR"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -2562,24 +2497,21 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 58,
+      "score": 43,
       "score_reasons": [
         "$5,259 on deposit (+20)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -2592,9 +2524,7 @@
           "amount": 5258.61
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "2428 MARCIA DR"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -2660,25 +2590,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$10k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 65,
+      "score": 50,
       "score_reasons": [
         "$15,202 on deposit (+27)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -2691,9 +2618,7 @@
           "amount": 15202.08
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "1219 E N BROADWAY RD"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -2853,25 +2778,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 78,
+      "score": 63,
       "score_reasons": [
         "$177,319 on deposit (+40)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -2884,9 +2806,7 @@
           "amount": 177318.72
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "3135 S EASTHAVEN DR"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -3393,24 +3313,21 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "901 CORPORATE CENTER DR",
-      "mail_city": "POMONA",
-      "mail_state": "CA",
-      "mail_zip": "91768-2642",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 65,
+      "score": 50,
       "score_reasons": [
         "$5,151 on deposit (+20)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 4 months (+7)",
         "New on the list this week (+5)"
       ],
@@ -3424,9 +3341,7 @@
           "amount": 5150.87
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "1814 MISTY WY"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -3445,25 +3360,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 85,
+      "score": 70,
       "score_reasons": [
         "$86,386 on deposit (+40)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 4 months (+7)",
         "New on the list this week (+5)"
       ],
@@ -3477,9 +3389,7 @@
           "amount": 86386.49
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "2055 WIMBERLY CT"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -3498,25 +3408,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 79,
+      "score": 64,
       "score_reasons": [
         "$30,326 on deposit (+34)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 4 months (+7)",
         "New on the list this week (+5)"
       ],
@@ -3530,9 +3437,7 @@
           "amount": 30325.9
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "4205 BOWMAN MEADOW DR"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -3551,25 +3456,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 79,
+      "score": 64,
       "score_reasons": [
         "$27,310 on deposit (+34)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 4 months (+7)",
         "New on the list this week (+5)"
       ],
@@ -3583,9 +3485,7 @@
           "amount": 27310.01
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "1822 PENFIELD RD"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -3604,25 +3504,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "901 CORPORATE CENTER DR",
-      "mail_city": "POMONA",
-      "mail_state": "CA",
-      "mail_zip": "91768-2642",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 85,
+      "score": 70,
       "score_reasons": [
         "$90,902 on deposit (+40)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 4 months (+7)",
         "New on the list this week (+5)"
       ],
@@ -3636,9 +3533,7 @@
           "amount": 90902.17
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "1063 SPRINGLAWN AVE"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -3853,25 +3748,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 85,
+      "score": 70,
       "score_reasons": [
         "$63,861 on deposit (+40)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 5 months (+7)",
         "New on the list this week (+5)"
       ],
@@ -3885,9 +3777,7 @@
           "amount": 63860.58
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "870 E MELROSE AVE"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -4002,25 +3892,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 85,
+      "score": 70,
       "score_reasons": [
         "$74,242 on deposit (+40)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 5 months (+7)",
         "New on the list this week (+5)"
       ],
@@ -4034,9 +3921,7 @@
           "amount": 74241.9
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "410 WOODSIDE MEADOWS PL"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -4151,25 +4036,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 85,
+      "score": 70,
       "score_reasons": [
         "$87,965 on deposit (+40)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 5 months (+7)",
         "New on the list this week (+5)"
       ],
@@ -4183,9 +4065,7 @@
           "amount": 87964.9
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "6428 BERRY POND WY"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -4252,25 +4132,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 79,
+      "score": 64,
       "score_reasons": [
         "$49,790 on deposit (+34)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 5 months (+7)",
         "New on the list this week (+5)"
       ],
@@ -4284,9 +4161,7 @@
           "amount": 49789.7
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "7274 COLONIAL AFFAIR DR"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -4542,24 +4417,21 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 59,
+      "score": 44,
       "score_reasons": [
         "$2,519 on deposit (+14)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 7 months (+7)",
         "New on the list this week (+5)"
       ],
@@ -4573,9 +4445,7 @@
           "amount": 2519.48
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "2710 VIDA PL"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -4646,25 +4516,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "901 CORPORATE CENTER DR",
-      "mail_city": "POMONA",
-      "mail_state": "CA",
-      "mail_zip": "91768-2642",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 79,
+      "score": 64,
       "score_reasons": [
         "$43,455 on deposit (+34)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 7 months (+7)",
         "New on the list this week (+5)"
       ],
@@ -4678,9 +4545,7 @@
           "amount": 43454.61
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "423 N GARFIELD AVE"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -4747,25 +4612,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 85,
+      "score": 70,
       "score_reasons": [
         "$52,339 on deposit (+40)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 7 months (+7)",
         "New on the list this week (+5)"
       ],
@@ -4779,9 +4641,7 @@
           "amount": 52338.63
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "5275 AURORA DR"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -4848,24 +4708,21 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 65,
+      "score": 50,
       "score_reasons": [
         "$6,292 on deposit (+20)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 7 months (+7)",
         "New on the list this week (+5)"
       ],
@@ -4879,9 +4736,7 @@
           "amount": 6292.15
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "704 OAKLEY AVE"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -4996,25 +4851,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 85,
+      "score": 70,
       "score_reasons": [
         "$90,879 on deposit (+40)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 8 months (+7)",
         "New on the list this week (+5)"
       ],
@@ -5028,9 +4880,7 @@
           "amount": 90879.06
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "3573 LIV-MOOR DR"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -5151,24 +5001,21 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 47,
+      "score": 32,
       "score_reasons": [
         "Small balance $537 (+2)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 8 months (+7)",
         "New on the list this week (+5)"
       ],
@@ -5182,9 +5029,7 @@
           "amount": 536.64
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "1764 MOUND ST"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -5299,24 +5144,21 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 65,
+      "score": 50,
       "score_reasons": [
         "$6,474 on deposit (+20)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 9 months (+7)",
         "New on the list this week (+5)"
       ],
@@ -5330,9 +5172,7 @@
           "amount": 6474.38
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "2416 W MOUND ST"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -5596,26 +5436,23 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
         "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 84,
+      "score": 69,
       "score_reasons": [
         "$39,719 on deposit (+34)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 12 months (+12)",
         "New on the list this week (+5)"
       ],
@@ -5629,9 +5466,7 @@
           "amount": 39719.2
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "584 COLLINGWOOD AVE"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -6290,26 +6125,23 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "901 CORPORATE CENTER DR",
-      "mail_city": "POMONA",
-      "mail_state": "CA",
-      "mail_zip": "91768-2642",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
         "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 90,
+      "score": 75,
       "score_reasons": [
         "$55,831 on deposit (+40)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 20 months (+12)",
         "New on the list this week (+5)"
       ],
@@ -6323,9 +6155,7 @@
           "amount": 55830.69
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "5976 HAYDENS CROSSING BL"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -7176,26 +7006,23 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$25k+ surplus",
         "Individual owner",
         "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 90,
+      "score": 75,
       "score_reasons": [
         "$85,904 on deposit (+40)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 31 months (+12)",
         "New on the list this week (+5)"
       ],
@@ -7209,9 +7036,7 @@
           "amount": 85903.93
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "2725 BRENTWOOD RD"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -7230,25 +7055,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "Individual owner",
         "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 70,
+      "score": 55,
       "score_reasons": [
         "$9,247 on deposit (+20)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 31 months (+12)",
         "New on the list this week (+5)"
       ],
@@ -7262,9 +7084,7 @@
           "amount": 9247.06
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "1843 WOODETTE RD"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -8010,25 +7830,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "Individual owner",
         "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 52,
+      "score": 37,
       "score_reasons": [
         "Small balance $75 (+2)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 50 months (+12)",
         "New on the list this week (+5)"
       ],
@@ -8042,9 +7859,7 @@
           "amount": 75.0
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "5522 BRESHLY WY"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -8063,25 +7878,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "Individual owner",
         "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 52,
+      "score": 37,
       "score_reasons": [
         "Small balance $158 (+2)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 50 months (+12)",
         "New on the list this week (+5)"
       ],
@@ -8095,9 +7907,7 @@
           "amount": 157.5
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "5050 STONEYBROOK BL"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -9223,26 +9033,23 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "$10k+ surplus",
         "Individual owner",
         "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 77,
+      "score": 62,
       "score_reasons": [
         "$19,513 on deposit (+27)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 68 months (+12)",
         "New on the list this week (+5)"
       ],
@@ -9256,9 +9063,7 @@
           "amount": 19512.98
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "56 HIAWATHA AVE"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -9575,25 +9380,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "Individual owner",
         "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 52,
+      "score": 37,
       "score_reasons": [
         "Small balance $75 (+2)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 71 months (+12)",
         "New on the list this week (+5)"
       ],
@@ -9607,9 +9409,7 @@
           "amount": 75.0
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "423 KASONS WY"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -9874,25 +9674,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "Individual owner",
         "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 52,
+      "score": 37,
       "score_reasons": [
         "Small balance $212 (+2)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 72 months (+12)",
         "New on the list this week (+5)"
       ],
@@ -9906,9 +9703,7 @@
           "amount": 211.67
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "715 CHERRY HOLLOW RD"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -10839,25 +10634,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "Individual owner",
         "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 52,
+      "score": 37,
       "score_reasons": [
         "Small balance $513 (+2)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 74 months (+12)",
         "New on the list this week (+5)"
       ],
@@ -10871,9 +10663,7 @@
           "amount": 513.39
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "941 MCCLAIN RD"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -11914,25 +11704,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "Individual owner",
         "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 52,
+      "score": 37,
       "score_reasons": [
         "Small balance $187 (+2)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 84 months (+12)",
         "New on the list this week (+5)"
       ],
@@ -11946,9 +11733,7 @@
           "amount": 187.3
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "468 GREENHILL DR"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -12599,25 +12384,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "Individual owner",
         "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 52,
+      "score": 37,
       "score_reasons": [
         "Small balance $2 (+2)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 87 months (+12)",
         "New on the list this week (+5)"
       ],
@@ -12631,9 +12413,7 @@
           "amount": 2.0
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "1780 RIDGEBURY DR"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -13052,26 +12832,23 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": true,
       "flags": [
         "Individual owner",
         "Tax foreclosure",
         "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 57,
+      "score": 42,
       "score_reasons": [
         "Small balance $1 (+2)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 107 months (+12)",
         "Tax foreclosure \u2014 owner often unrepresented (+5)",
         "New on the list this week (+5)"
@@ -13086,9 +12863,7 @@
           "amount": 1.0
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "733 GLENMOOR DR"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -13107,26 +12882,23 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": true,
       "flags": [
         "Individual owner",
         "Tax foreclosure",
         "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 75,
+      "score": 60,
       "score_reasons": [
         "$9,704 on deposit (+20)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 110 months (+12)",
         "Tax foreclosure \u2014 owner often unrepresented (+5)",
         "New on the list this week (+5)"
@@ -13141,9 +12913,7 @@
           "amount": 9703.81
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "3440 KENLAWN ST"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -13262,25 +13032,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "Individual owner",
         "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 52,
+      "score": 37,
       "score_reasons": [
         "Small balance $306 (+2)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 137 months (+12)",
         "New on the list this week (+5)"
       ],
@@ -13294,9 +13061,7 @@
           "amount": 305.61
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "744 WORTH FOREST PL"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -13663,26 +13428,23 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": true,
       "flags": [
         "Individual owner",
         "Tax foreclosure",
         "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 57,
+      "score": 42,
       "score_reasons": [
         "Small balance $923 (+2)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
         "Unclaimed 165 months (+12)",
         "Tax foreclosure \u2014 owner often unrepresented (+5)",
         "New on the list this week (+5)"
@@ -13697,9 +13459,7 @@
           "amount": 922.57
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "3184 DALE AVE"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },

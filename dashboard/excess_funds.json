@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-06T22:31:28+00:00",
+  "generated_at": "2026-11-06T22:35:19+00:00",
   "source": "Franklin County Clerk of Courts \u2014 Excess Sales Proceeds",
   "source_page": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
   "source_file": "https://clerk.franklincountyohio.gov/files/assets/clerkofcourt/v/1/documents/public-financial-records/excesssalesproceeds.xlsx",
   "total_leads": 279,
   "total_surplus": 7887536.27,
-  "leads_with_mailing_address": 75,
+  "leads_with_mailing_address": 27,
   "leads_with_property_address": 0,
   "new_this_run": 279,
   "no_longer_listed": 0,
@@ -59,60 +59,6 @@
       ],
       "extra": {
         "Auditor name match parcel": "122 S RICHARDSON AVE"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "22CV007298",
-      "caption": "",
-      "plaintiff": "CALIBER HOME LOANS INC",
-      "defendants_raw": "WALKER, JEFFREY L.",
-      "owner": "WALKER, JEFFREY L",
-      "amount": 85903.93,
-      "deposit_date": "2024-03-28",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 90,
-      "score_reasons": [
-        "$85,904 on deposit (+40)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 31 months (+12)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 85903.93
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "2725 BRENTWOOD RD"
       },
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
@@ -172,60 +118,6 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
-      "case_number": "23CV002138",
-      "caption": "",
-      "plaintiff": "US BANK NATIONAL ASSOCIATION",
-      "defendants_raw": "HALL, CAROL A.",
-      "owner": "HALL, CAROL A",
-      "amount": 55830.69,
-      "deposit_date": "2025-02-27",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "901 CORPORATE CENTER DR",
-      "mail_city": "POMONA",
-      "mail_state": "CA",
-      "mail_zip": "91768-2642",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 90,
-      "score_reasons": [
-        "$55,831 on deposit (+40)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 20 months (+12)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 55830.69
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "5976 HAYDENS CROSSING BL"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
       "case_number": "14CV002389",
       "caption": "",
       "plaintiff": "WOODS COVE III LLC",
@@ -274,112 +166,6 @@
       ],
       "extra": {
         "Auditor name match parcel": "1897 - 1899 FONTENAY CT"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "25CV004820",
-      "caption": "",
-      "plaintiff": "THE HUNTINGTON NATIONAL BANK",
-      "defendants_raw": "POWELL, JERRY E.",
-      "owner": "POWELL, JERRY E",
-      "amount": 90902.17,
-      "deposit_date": "2026-06-11",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "901 CORPORATE CENTER DR",
-      "mail_city": "POMONA",
-      "mail_state": "CA",
-      "mail_zip": "91768-2642",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 85,
-      "score_reasons": [
-        "$90,902 on deposit (+40)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 4 months (+7)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 90902.17
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "1063 SPRINGLAWN AVE"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "24CV003413",
-      "caption": "",
-      "plaintiff": "US BANK NATIONAL ASSOCIATION",
-      "defendants_raw": "COOPER, EDDIE",
-      "owner": "COOPER, EDDIE",
-      "amount": 90879.06,
-      "deposit_date": "2026-03-10",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 85,
-      "score_reasons": [
-        "$90,879 on deposit (+40)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 8 months (+7)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 90879.06
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "3573 LIV-MOOR DR"
       },
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
@@ -437,112 +223,6 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
-      "case_number": "25CV005383",
-      "caption": "",
-      "plaintiff": "NEWREZ LLC",
-      "defendants_raw": "SIPES, ERIK",
-      "owner": "SIPES, ERIK",
-      "amount": 87964.9,
-      "deposit_date": "2026-05-19",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 85,
-      "score_reasons": [
-        "$87,965 on deposit (+40)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 5 months (+7)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 87964.9
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "6428 BERRY POND WY"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "25CV003679",
-      "caption": "",
-      "plaintiff": "AMERICAN FINANCING CORPORATION",
-      "defendants_raw": "HANES, LINDA K.",
-      "owner": "HANES, LINDA K",
-      "amount": 86386.49,
-      "deposit_date": "2026-06-26",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 85,
-      "score_reasons": [
-        "$86,386 on deposit (+40)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 4 months (+7)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 86386.49
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "2055 WIMBERLY CT"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
       "case_number": "19CV008908",
       "caption": "",
       "plaintiff": "PICKAWILLANY CONDOMINIUMUNIT O",
@@ -590,165 +270,6 @@
       ],
       "extra": {
         "Auditor name match parcel": "4936 WINTERSONG LN"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "25CV003828",
-      "caption": "",
-      "plaintiff": "NATIONSTAR MORTGAGE LLC",
-      "defendants_raw": "MORTON, JAMES",
-      "owner": "MORTON, JAMES",
-      "amount": 74241.9,
-      "deposit_date": "2026-05-28",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 85,
-      "score_reasons": [
-        "$74,242 on deposit (+40)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 5 months (+7)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 74241.9
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "410 WOODSIDE MEADOWS PL"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "23CV008414",
-      "caption": "",
-      "plaintiff": "US BANK NATIONAL ASSOCIATION",
-      "defendants_raw": "SPILLMAN, THOMAS E.",
-      "owner": "SPILLMAN, THOMAS E",
-      "amount": 63860.58,
-      "deposit_date": "2026-05-29",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 85,
-      "score_reasons": [
-        "$63,861 on deposit (+40)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 5 months (+7)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 63860.58
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "870 E MELROSE AVE"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "25CV001789",
-      "caption": "",
-      "plaintiff": "US BANK NATIONAL ASSOCIATION",
-      "defendants_raw": "JOLLEY, ERIN C.",
-      "owner": "JOLLEY, ERIN C",
-      "amount": 52338.63,
-      "deposit_date": "2026-03-27",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 85,
-      "score_reasons": [
-        "$52,339 on deposit (+40)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 7 months (+7)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 52338.63
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "5275 AURORA DR"
       },
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
@@ -803,60 +324,6 @@
       ],
       "extra": {
         "Auditor name match parcel": "2156 N GERBERT RD"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "25CV002003",
-      "caption": "",
-      "plaintiff": "LAKEVIEW LOAN SERVICING LLC",
-      "defendants_raw": "PICKENS, IRA E.",
-      "owner": "PICKENS, IRA E",
-      "amount": 39719.2,
-      "deposit_date": "2025-11-05",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 84,
-      "score_reasons": [
-        "$39,719 on deposit (+34)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 12 months (+12)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 39719.2
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "584 COLLINGWOOD AVE"
       },
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
@@ -1111,270 +578,6 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
-      "case_number": "24CV005818",
-      "caption": "",
-      "plaintiff": "PNC BANK NATIONAL ASSOCIATION",
-      "defendants_raw": "MERZ, DANIEL P.",
-      "owner": "MERZ, DANIEL P",
-      "amount": 49789.7,
-      "deposit_date": "2026-05-15",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 79,
-      "score_reasons": [
-        "$49,790 on deposit (+34)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 5 months (+7)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 49789.7
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "7274 COLONIAL AFFAIR DR"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "24CV005577",
-      "caption": "",
-      "plaintiff": "THE HUNTINGTON NATIONAL BANK",
-      "defendants_raw": "MITCHELL JR, FRANK D.",
-      "owner": "MITCHELL JR, FRANK D",
-      "amount": 43454.61,
-      "deposit_date": "2026-04-03",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "901 CORPORATE CENTER DR",
-      "mail_city": "POMONA",
-      "mail_state": "CA",
-      "mail_zip": "91768-2642",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 79,
-      "score_reasons": [
-        "$43,455 on deposit (+34)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 7 months (+7)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 43454.61
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "423 N GARFIELD AVE"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "21CV007353",
-      "caption": "",
-      "plaintiff": "THE HAMPTONS AT SHANNON LAKES",
-      "defendants_raw": "FISHER, LATOYA E.",
-      "owner": "FISHER, LATOYA E",
-      "amount": 30325.9,
-      "deposit_date": "2026-06-24",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 79,
-      "score_reasons": [
-        "$30,326 on deposit (+34)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 4 months (+7)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 30325.9
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "4205 BOWMAN MEADOW DR"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "25CV006359",
-      "caption": "",
-      "plaintiff": "FEDERAL HOME LOAN MORTGAGE COR",
-      "defendants_raw": "MCDONALD, LEE",
-      "owner": "MCDONALD, LEE",
-      "amount": 27310.01,
-      "deposit_date": "2026-06-22",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 79,
-      "score_reasons": [
-        "$27,310 on deposit (+34)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 4 months (+7)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 27310.01
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "1822 PENFIELD RD"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "24CV004648",
-      "caption": "",
-      "plaintiff": "PNC BANK NATIONAL ASSOCIATION",
-      "defendants_raw": "HARRIS, LINDA M.",
-      "owner": "HARRIS, LINDA M",
-      "amount": 177318.72,
-      "deposit_date": "2026-07-30",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 78,
-      "score_reasons": [
-        "$177,319 on deposit (+40)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 177318.72
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "3135 S EASTHAVEN DR"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
       "case_number": "25CV004263",
       "caption": "",
       "plaintiff": "UNION SAVINGS BANK",
@@ -1421,58 +624,6 @@
       ],
       "extra": {
         "Auditor name match parcel": "256 SPRING HOLLOW LN"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "25CV000808",
-      "caption": "",
-      "plaintiff": "BLENDON PARK CONDOMINIUMASSOCI",
-      "defendants_raw": "BRADY, STATON",
-      "owner": "BRADY, STATON",
-      "amount": 137713.26,
-      "deposit_date": "2026-10-28",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 78,
-      "score_reasons": [
-        "$137,713 on deposit (+40)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 137713.26
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "4038 BLENDON POINT DR"
       },
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
@@ -1529,58 +680,6 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
-      "case_number": "25CV003806",
-      "caption": "",
-      "plaintiff": "AMERISAVE MORTGAGE CORPORATION",
-      "defendants_raw": "BAKER, JOY E.",
-      "owner": "BAKER, JOY E",
-      "amount": 111304.75,
-      "deposit_date": "2026-10-09",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 78,
-      "score_reasons": [
-        "$111,305 on deposit (+40)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 111304.75
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "5331 JOHN BROWNING DR"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
       "case_number": "22CV007939",
       "caption": "",
       "plaintiff": "ADAIR ASSET MANAGEMENT LLC",
@@ -1632,58 +731,6 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
-      "case_number": "25CV005798",
-      "caption": "",
-      "plaintiff": "NEWREZ LLC",
-      "defendants_raw": "MELENDEZ, CECILIA",
-      "owner": "MELENDEZ, CECILIA",
-      "amount": 95965.9,
-      "deposit_date": "2026-09-22",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 78,
-      "score_reasons": [
-        "$95,966 on deposit (+40)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 95965.9
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "1520 GRATTAN RD"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
       "case_number": "22CV003098",
       "caption": "",
       "plaintiff": "ADAIR ASSET MANAGEMENT LLC",
@@ -1730,110 +777,6 @@
       ],
       "extra": {
         "Auditor name match parcel": "3606 LIEB ST"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "25CV005601",
-      "caption": "",
-      "plaintiff": "CITIZENS BANK NA",
-      "defendants_raw": "ROBERTS, JONIE",
-      "owner": "ROBERTS, JONIE",
-      "amount": 64830.42,
-      "deposit_date": "2026-10-08",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 78,
-      "score_reasons": [
-        "$64,830 on deposit (+40)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 64830.42
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "807 ORCHARD GLEN CT"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "25CV006822",
-      "caption": "",
-      "plaintiff": "JPMORGAN CHASE BANK NA",
-      "defendants_raw": "THOMPSON, FRANCIS T.",
-      "owner": "THOMPSON, FRANCIS T",
-      "amount": 59278.33,
-      "deposit_date": "2026-10-26",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 78,
-      "score_reasons": [
-        "$59,278 on deposit (+40)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 59278.33
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "3435 LACON RD"
       },
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
@@ -1941,60 +884,6 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
-      "case_number": "19CV007061",
-      "caption": "",
-      "plaintiff": "NATIONSTAR MORTGAGE LLC",
-      "defendants_raw": "KUHN, ROBERT F.",
-      "owner": "KUHN, ROBERT F",
-      "amount": 19512.98,
-      "deposit_date": "2021-04-01",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$10k+ surplus",
-        "Individual owner",
-        "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 77,
-      "score_reasons": [
-        "$19,513 on deposit (+27)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 68 months (+12)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 19512.98
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "56 HIAWATHA AVE"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
       "case_number": "24CV004308",
       "caption": "",
       "plaintiff": "MIDFIRST BANK",
@@ -2090,6 +979,55 @@
         {
           "date": "2026-11-06",
           "amount": 88242.84
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "22CV007298",
+      "caption": "",
+      "plaintiff": "CALIBER HOME LOANS INC",
+      "defendants_raw": "WALKER, JEFFREY L.",
+      "owner": "WALKER, JEFFREY L",
+      "amount": 85903.93,
+      "deposit_date": "2024-03-28",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "Unclaimed 1yr+",
+        "New this week"
+      ],
+      "score": 75,
+      "score_reasons": [
+        "$85,904 on deposit (+40)",
+        "Individual former owner (+18)",
+        "Unclaimed 31 months (+12)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 85903.93
         }
       ],
       "extra": {},
@@ -2294,13 +1232,13 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
-      "case_number": "16CV000639",
+      "case_number": "23CV002138",
       "caption": "",
-      "plaintiff": "FRANKLIN COUNTY TREASURER",
-      "defendants_raw": "TURNER, LINDA C.",
-      "owner": "TURNER, LINDA C",
-      "amount": 9703.81,
-      "deposit_date": "2017-09-29",
+      "plaintiff": "US BANK NATIONAL ASSOCIATION",
+      "defendants_raw": "HALL, CAROL A.",
+      "owner": "HALL, CAROL A",
+      "amount": 55830.69,
+      "deposit_date": "2025-02-27",
       "sale_date": "",
       "row_count": 1,
       "parcel_number": "",
@@ -2308,28 +1246,24 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
-      "tax_foreclosure": true,
+      "tax_foreclosure": false,
       "flags": [
+        "$25k+ surplus",
         "Individual owner",
-        "Tax foreclosure",
         "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
       "score": 75,
       "score_reasons": [
-        "$9,704 on deposit (+20)",
+        "$55,831 on deposit (+40)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 110 months (+12)",
-        "Tax foreclosure \u2014 owner often unrepresented (+5)",
+        "Unclaimed 20 months (+12)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -2339,220 +1273,10 @@
       "amount_history": [
         {
           "date": "2026-11-06",
-          "amount": 9703.81
+          "amount": 55830.69
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "3440 KENLAWN ST"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "24CV002167",
-      "caption": "",
-      "plaintiff": "US BANK TRUST COMPANY NATIONAL",
-      "defendants_raw": "TOLIVER, RODERICK D.",
-      "owner": "TOLIVER, RODERICK D",
-      "amount": 49863.24,
-      "deposit_date": "2026-09-04",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 72,
-      "score_reasons": [
-        "$49,863 on deposit (+34)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 49863.24
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "6823 GILETTE DR"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "25CV002584",
-      "caption": "",
-      "plaintiff": "NEWREZ LLC",
-      "defendants_raw": "FRYE, KAREN J.",
-      "owner": "FRYE, KAREN J",
-      "amount": 44788.56,
-      "deposit_date": "2026-11-04",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 72,
-      "score_reasons": [
-        "$44,789 on deposit (+34)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 44788.56
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "5069 BECKENHAM CT"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "22CV008672",
-      "caption": "",
-      "plaintiff": "NATIONSTAR MORTGAGE LLC",
-      "defendants_raw": "SPAULDING, ANTWIONE L.",
-      "owner": "SPAULDING, ANTWIONE L",
-      "amount": 43584.96,
-      "deposit_date": "2026-10-01",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 72,
-      "score_reasons": [
-        "$43,585 on deposit (+34)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 43584.96
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "162 INAH AVE"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "25CV005254",
-      "caption": "",
-      "plaintiff": "TH MSR HOLDINGS LLC",
-      "defendants_raw": "FERRONI, SAMUEL A.",
-      "owner": "FERRONI, SAMUEL A",
-      "amount": 32873.45,
-      "deposit_date": "2026-10-07",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 72,
-      "score_reasons": [
-        "$32,873 on deposit (+34)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 32873.45
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "522 CAMDENWAY CT"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -2603,58 +1327,6 @@
       ],
       "extra": {
         "Auditor name match parcel": "2992 WOODLAND AVE"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "24CV000259",
-      "caption": "",
-      "plaintiff": "BROADWAY CONDOMINIUM ASSOCIATI",
-      "defendants_raw": "HESS, RYAN R.",
-      "owner": "HESS, RYAN R",
-      "amount": 27893.48,
-      "deposit_date": "2026-10-30",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 72,
-      "score_reasons": [
-        "$27,893 on deposit (+34)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 27893.48
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "4179 COLISTER DR"
       },
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
@@ -2855,6 +1527,198 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
+      "case_number": "25CV004820",
+      "caption": "",
+      "plaintiff": "THE HUNTINGTON NATIONAL BANK",
+      "defendants_raw": "POWELL, JERRY E.",
+      "owner": "POWELL, JERRY E",
+      "amount": 90902.17,
+      "deposit_date": "2026-06-11",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 70,
+      "score_reasons": [
+        "$90,902 on deposit (+40)",
+        "Individual former owner (+18)",
+        "Unclaimed 4 months (+7)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 90902.17
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "24CV003413",
+      "caption": "",
+      "plaintiff": "US BANK NATIONAL ASSOCIATION",
+      "defendants_raw": "COOPER, EDDIE",
+      "owner": "COOPER, EDDIE",
+      "amount": 90879.06,
+      "deposit_date": "2026-03-10",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 70,
+      "score_reasons": [
+        "$90,879 on deposit (+40)",
+        "Individual former owner (+18)",
+        "Unclaimed 8 months (+7)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 90879.06
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "25CV005383",
+      "caption": "",
+      "plaintiff": "NEWREZ LLC",
+      "defendants_raw": "SIPES, ERIK",
+      "owner": "SIPES, ERIK",
+      "amount": 87964.9,
+      "deposit_date": "2026-05-19",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 70,
+      "score_reasons": [
+        "$87,965 on deposit (+40)",
+        "Individual former owner (+18)",
+        "Unclaimed 5 months (+7)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 87964.9
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "25CV003679",
+      "caption": "",
+      "plaintiff": "AMERICAN FINANCING CORPORATION",
+      "defendants_raw": "HANES, LINDA K.",
+      "owner": "HANES, LINDA K",
+      "amount": 86386.49,
+      "deposit_date": "2026-06-26",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 70,
+      "score_reasons": [
+        "$86,386 on deposit (+40)",
+        "Individual former owner (+18)",
+        "Unclaimed 4 months (+7)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 86386.49
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
       "case_number": "24CV002112",
       "caption": "",
       "plaintiff": "THE HUNTINGTON NATIONAL BANK",
@@ -2903,6 +1767,54 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
+      "case_number": "25CV003828",
+      "caption": "",
+      "plaintiff": "NATIONSTAR MORTGAGE LLC",
+      "defendants_raw": "MORTON, JAMES",
+      "owner": "MORTON, JAMES",
+      "amount": 74241.9,
+      "deposit_date": "2026-05-28",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 70,
+      "score_reasons": [
+        "$74,242 on deposit (+40)",
+        "Individual former owner (+18)",
+        "Unclaimed 5 months (+7)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 74241.9
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
       "case_number": "24CV000311",
       "caption": "",
       "plaintiff": "US BANK NATIONAL ASSOCIATION",
@@ -2944,6 +1856,54 @@
         {
           "date": "2026-11-06",
           "amount": 71883.55
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "23CV008414",
+      "caption": "",
+      "plaintiff": "US BANK NATIONAL ASSOCIATION",
+      "defendants_raw": "SPILLMAN, THOMAS E.",
+      "owner": "SPILLMAN, THOMAS E",
+      "amount": 63860.58,
+      "deposit_date": "2026-05-29",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 70,
+      "score_reasons": [
+        "$63,861 on deposit (+40)",
+        "Individual former owner (+18)",
+        "Unclaimed 5 months (+7)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 63860.58
         }
       ],
       "extra": {},
@@ -3047,13 +2007,13 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
-      "case_number": "19CV009660",
+      "case_number": "25CV001789",
       "caption": "",
-      "plaintiff": "DEUTSCHE BANK NATIONAL TRUST C",
-      "defendants_raw": "MOORE, PATTY S.",
-      "owner": "MOORE, PATTY S",
-      "amount": 9247.06,
-      "deposit_date": "2024-03-22",
+      "plaintiff": "US BANK NATIONAL ASSOCIATION",
+      "defendants_raw": "JOLLEY, ERIN C.",
+      "owner": "JOLLEY, ERIN C",
+      "amount": 52338.63,
+      "deposit_date": "2026-03-27",
       "sale_date": "",
       "row_count": 1,
       "parcel_number": "",
@@ -3061,26 +2021,23 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
+        "$25k+ surplus",
         "Individual owner",
-        "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
       "score": 70,
       "score_reasons": [
-        "$9,247 on deposit (+20)",
+        "$52,339 on deposit (+40)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 31 months (+12)",
+        "Unclaimed 7 months (+7)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -3090,12 +2047,10 @@
       "amount_history": [
         {
           "date": "2026-11-06",
-          "amount": 9247.06
+          "amount": 52338.63
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "1843 WOODETTE RD"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -3149,6 +2104,55 @@
       "extra": {
         "Auditor name match parcel": "382 S TERRACE AVE"
       },
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "25CV002003",
+      "caption": "",
+      "plaintiff": "LAKEVIEW LOAN SERVICING LLC",
+      "defendants_raw": "PICKENS, IRA E.",
+      "owner": "PICKENS, IRA E",
+      "amount": 39719.2,
+      "deposit_date": "2025-11-05",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "Unclaimed 1yr+",
+        "New this week"
+      ],
+      "score": 69,
+      "score_reasons": [
+        "$39,719 on deposit (+34)",
+        "Individual former owner (+18)",
+        "Unclaimed 12 months (+12)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 39719.2
+        }
+      ],
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -3921,110 +2925,6 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
-      "case_number": "22CV004678",
-      "caption": "",
-      "plaintiff": "THE BANK OF NEW YORK MELLON TR",
-      "defendants_raw": "GREENE, ELAINE A.",
-      "owner": "GREENE, ELAINE A",
-      "amount": 20316.2,
-      "deposit_date": "2026-11-04",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$10k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 65,
-      "score_reasons": [
-        "$20,316 on deposit (+27)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 20316.2
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "3090 CHEAVES PL"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "25CV003480",
-      "caption": "",
-      "plaintiff": "US BANK NATIONAL ASSOCIATION",
-      "defendants_raw": "ABTS, DONNA M.",
-      "owner": "ABTS, DONNA M",
-      "amount": 15202.08,
-      "deposit_date": "2026-08-19",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "$10k+ surplus",
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 65,
-      "score_reasons": [
-        "$15,202 on deposit (+27)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 15202.08
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "1219 E N BROADWAY RD"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
       "case_number": "25CV004182",
       "caption": "",
       "plaintiff": "WILMINGTON SAVINGS FUNDSSOCIET",
@@ -4076,13 +2976,13 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
-      "case_number": "24CV007751",
+      "case_number": "24CV005818",
       "caption": "",
-      "plaintiff": "SELENE FINANCE LP",
-      "defendants_raw": "LACLAIR, CATHY A.",
-      "owner": "LACLAIR, CATHY A",
-      "amount": 6474.38,
-      "deposit_date": "2026-01-28",
+      "plaintiff": "PNC BANK NATIONAL ASSOCIATION",
+      "defendants_raw": "MERZ, DANIEL P.",
+      "owner": "MERZ, DANIEL P",
+      "amount": 49789.7,
+      "deposit_date": "2026-05-15",
       "sale_date": "",
       "row_count": 1,
       "parcel_number": "",
@@ -4090,25 +2990,23 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
+        "$25k+ surplus",
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 65,
+      "score": 64,
       "score_reasons": [
-        "$6,474 on deposit (+20)",
+        "$49,790 on deposit (+34)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 9 months (+7)",
+        "Unclaimed 5 months (+7)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -4118,116 +3016,10 @@
       "amount_history": [
         {
           "date": "2026-11-06",
-          "amount": 6474.38
+          "amount": 49789.7
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "2416 W MOUND ST"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "24CV005536",
-      "caption": "",
-      "plaintiff": "CITIBANK NA",
-      "defendants_raw": "WILSON, LEONARD L.",
-      "owner": "WILSON, LEONARD L",
-      "amount": 6292.15,
-      "deposit_date": "2026-03-26",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 65,
-      "score_reasons": [
-        "$6,292 on deposit (+20)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 7 months (+7)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 6292.15
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "704 OAKLEY AVE"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "20CV004251",
-      "caption": "",
-      "plaintiff": "MCNAUGHTEN VILLAGE CONDOMINIUM",
-      "defendants_raw": "NETHERY, KAREN S.",
-      "owner": "NETHERY, KAREN S",
-      "amount": 5150.87,
-      "deposit_date": "2026-06-26",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "901 CORPORATE CENTER DR",
-      "mail_city": "POMONA",
-      "mail_state": "CA",
-      "mail_zip": "91768-2642",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 65,
-      "score_reasons": [
-        "$5,151 on deposit (+20)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 4 months (+7)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 5150.87
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "1814 MISTY WY"
-      },
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -4273,6 +3065,54 @@
         {
           "date": "2026-11-06",
           "amount": 48824.91
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "24CV005577",
+      "caption": "",
+      "plaintiff": "THE HUNTINGTON NATIONAL BANK",
+      "defendants_raw": "MITCHELL JR, FRANK D.",
+      "owner": "MITCHELL JR, FRANK D",
+      "amount": 43454.61,
+      "deposit_date": "2026-04-03",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 64,
+      "score_reasons": [
+        "$43,455 on deposit (+34)",
+        "Individual former owner (+18)",
+        "Unclaimed 7 months (+7)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 43454.61
         }
       ],
       "extra": {},
@@ -4328,6 +3168,196 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
+      "case_number": "21CV007353",
+      "caption": "",
+      "plaintiff": "THE HAMPTONS AT SHANNON LAKES",
+      "defendants_raw": "FISHER, LATOYA E.",
+      "owner": "FISHER, LATOYA E",
+      "amount": 30325.9,
+      "deposit_date": "2026-06-24",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 64,
+      "score_reasons": [
+        "$30,326 on deposit (+34)",
+        "Individual former owner (+18)",
+        "Unclaimed 4 months (+7)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 30325.9
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "25CV006359",
+      "caption": "",
+      "plaintiff": "FEDERAL HOME LOAN MORTGAGE COR",
+      "defendants_raw": "MCDONALD, LEE",
+      "owner": "MCDONALD, LEE",
+      "amount": 27310.01,
+      "deposit_date": "2026-06-22",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 64,
+      "score_reasons": [
+        "$27,310 on deposit (+34)",
+        "Individual former owner (+18)",
+        "Unclaimed 4 months (+7)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 27310.01
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "24CV004648",
+      "caption": "",
+      "plaintiff": "PNC BANK NATIONAL ASSOCIATION",
+      "defendants_raw": "HARRIS, LINDA M.",
+      "owner": "HARRIS, LINDA M",
+      "amount": 177318.72,
+      "deposit_date": "2026-07-30",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 63,
+      "score_reasons": [
+        "$177,319 on deposit (+40)",
+        "Individual former owner (+18)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 177318.72
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "25CV000808",
+      "caption": "",
+      "plaintiff": "BLENDON PARK CONDOMINIUMASSOCI",
+      "defendants_raw": "BRADY, STATON",
+      "owner": "BRADY, STATON",
+      "amount": 137713.26,
+      "deposit_date": "2026-10-28",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 63,
+      "score_reasons": [
+        "$137,713 on deposit (+40)",
+        "Individual former owner (+18)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 137713.26
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
       "case_number": "25CV003733",
       "caption": "",
       "plaintiff": "NEWREZ LLC",
@@ -4375,6 +3405,53 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
+      "case_number": "25CV003806",
+      "caption": "",
+      "plaintiff": "AMERISAVE MORTGAGE CORPORATION",
+      "defendants_raw": "BAKER, JOY E.",
+      "owner": "BAKER, JOY E",
+      "amount": 111304.75,
+      "deposit_date": "2026-10-09",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 63,
+      "score_reasons": [
+        "$111,305 on deposit (+40)",
+        "Individual former owner (+18)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 111304.75
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
       "case_number": "23CV003243",
       "caption": "",
       "plaintiff": "OAKMONT VILLAGE CONDOMINIUM AS",
@@ -4415,6 +3492,53 @@
         {
           "date": "2026-11-06",
           "amount": 103969.24
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "25CV005798",
+      "caption": "",
+      "plaintiff": "NEWREZ LLC",
+      "defendants_raw": "MELENDEZ, CECILIA",
+      "owner": "MELENDEZ, CECILIA",
+      "amount": 95965.9,
+      "deposit_date": "2026-09-22",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 63,
+      "score_reasons": [
+        "$95,966 on deposit (+40)",
+        "Individual former owner (+18)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 95965.9
         }
       ],
       "extra": {},
@@ -4650,6 +3774,100 @@
         {
           "date": "2026-11-06",
           "amount": 66341.76
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "25CV005601",
+      "caption": "",
+      "plaintiff": "CITIZENS BANK NA",
+      "defendants_raw": "ROBERTS, JONIE",
+      "owner": "ROBERTS, JONIE",
+      "amount": 64830.42,
+      "deposit_date": "2026-10-08",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 63,
+      "score_reasons": [
+        "$64,830 on deposit (+40)",
+        "Individual former owner (+18)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 64830.42
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "25CV006822",
+      "caption": "",
+      "plaintiff": "JPMORGAN CHASE BANK NA",
+      "defendants_raw": "THOMPSON, FRANCIS T.",
+      "owner": "THOMPSON, FRANCIS T",
+      "amount": 59278.33,
+      "deposit_date": "2026-10-26",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 63,
+      "score_reasons": [
+        "$59,278 on deposit (+40)",
+        "Individual former owner (+18)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 59278.33
         }
       ],
       "extra": {},
@@ -4898,6 +4116,55 @@
         {
           "date": "2026-11-06",
           "amount": 22827.32
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "19CV007061",
+      "caption": "",
+      "plaintiff": "NATIONSTAR MORTGAGE LLC",
+      "defendants_raw": "KUHN, ROBERT F.",
+      "owner": "KUHN, ROBERT F",
+      "amount": 19512.98,
+      "deposit_date": "2021-04-01",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$10k+ surplus",
+        "Individual owner",
+        "Unclaimed 1yr+",
+        "New this week"
+      ],
+      "score": 62,
+      "score_reasons": [
+        "$19,513 on deposit (+27)",
+        "Individual former owner (+18)",
+        "Unclaimed 68 months (+12)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 19512.98
         }
       ],
       "extra": {},
@@ -5290,6 +4557,56 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
+      "case_number": "16CV000639",
+      "caption": "",
+      "plaintiff": "FRANKLIN COUNTY TREASURER",
+      "defendants_raw": "TURNER, LINDA C.",
+      "owner": "TURNER, LINDA C",
+      "amount": 9703.81,
+      "deposit_date": "2017-09-29",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": true,
+      "flags": [
+        "Individual owner",
+        "Tax foreclosure",
+        "Unclaimed 1yr+",
+        "New this week"
+      ],
+      "score": 60,
+      "score_reasons": [
+        "$9,704 on deposit (+20)",
+        "Individual former owner (+18)",
+        "Unclaimed 110 months (+12)",
+        "Tax foreclosure \u2014 owner often unrepresented (+5)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 9703.81
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
       "case_number": "16CV005789",
       "caption": "",
       "plaintiff": "FRANKLIN COUNTY TREASURER",
@@ -5434,211 +4751,6 @@
         }
       ],
       "extra": {},
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "25CV003201",
-      "caption": "",
-      "plaintiff": "MIDFIRST BANK",
-      "defendants_raw": "BRIGGS, CANDACE A.",
-      "owner": "BRIGGS, CANDACE A",
-      "amount": 2519.48,
-      "deposit_date": "2026-04-09",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 59,
-      "score_reasons": [
-        "$2,519 on deposit (+14)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 7 months (+7)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 2519.48
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "2710 VIDA PL"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "25CV002804",
-      "caption": "",
-      "plaintiff": "NATIONS DIRECT MORTGAGE LLC",
-      "defendants_raw": "KUPAY, JENNIFER L.",
-      "owner": "KUPAY, JENNIFER L",
-      "amount": 8131.93,
-      "deposit_date": "2026-10-01",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 58,
-      "score_reasons": [
-        "$8,132 on deposit (+20)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 8131.93
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "3361 MERIDIAN RD"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "22CV005925",
-      "caption": "",
-      "plaintiff": "WILMINGTON SAVINGS FUND SOCIET",
-      "defendants_raw": "REED, BRANDI",
-      "owner": "REED, BRANDI",
-      "amount": 7330.44,
-      "deposit_date": "2026-10-20",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 58,
-      "score_reasons": [
-        "$7,330 on deposit (+20)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 7330.44
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "5743 SHARP MILLS RUN"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "25CV003089",
-      "caption": "",
-      "plaintiff": "DEUTSCHE BANK NATIONAL TRUST C",
-      "defendants_raw": "CLOVER, FRANK",
-      "owner": "CLOVER, FRANK",
-      "amount": 5258.61,
-      "deposit_date": "2026-08-20",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 58,
-      "score_reasons": [
-        "$5,259 on deposit (+20)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 5258.61
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "2428 MARCIA DR"
-      },
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -5837,6 +4949,147 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
+      "case_number": "24CV002167",
+      "caption": "",
+      "plaintiff": "US BANK TRUST COMPANY NATIONAL",
+      "defendants_raw": "TOLIVER, RODERICK D.",
+      "owner": "TOLIVER, RODERICK D",
+      "amount": 49863.24,
+      "deposit_date": "2026-09-04",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 57,
+      "score_reasons": [
+        "$49,863 on deposit (+34)",
+        "Individual former owner (+18)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 49863.24
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "25CV002584",
+      "caption": "",
+      "plaintiff": "NEWREZ LLC",
+      "defendants_raw": "FRYE, KAREN J.",
+      "owner": "FRYE, KAREN J",
+      "amount": 44788.56,
+      "deposit_date": "2026-11-04",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 57,
+      "score_reasons": [
+        "$44,789 on deposit (+34)",
+        "Individual former owner (+18)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 44788.56
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "22CV008672",
+      "caption": "",
+      "plaintiff": "NATIONSTAR MORTGAGE LLC",
+      "defendants_raw": "SPAULDING, ANTWIONE L.",
+      "owner": "SPAULDING, ANTWIONE L",
+      "amount": 43584.96,
+      "deposit_date": "2026-10-01",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 57,
+      "score_reasons": [
+        "$43,585 on deposit (+34)",
+        "Individual former owner (+18)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 43584.96
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
       "case_number": "23CV007076",
       "caption": "",
       "plaintiff": "NAR OHIO LLC",
@@ -5971,6 +5224,100 @@
         {
           "date": "2026-11-06",
           "amount": 39705.49
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "25CV005254",
+      "caption": "",
+      "plaintiff": "TH MSR HOLDINGS LLC",
+      "defendants_raw": "FERRONI, SAMUEL A.",
+      "owner": "FERRONI, SAMUEL A",
+      "amount": 32873.45,
+      "deposit_date": "2026-10-07",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 57,
+      "score_reasons": [
+        "$32,873 on deposit (+34)",
+        "Individual former owner (+18)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 32873.45
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "24CV000259",
+      "caption": "",
+      "plaintiff": "BROADWAY CONDOMINIUM ASSOCIATI",
+      "defendants_raw": "HESS, RYAN R.",
+      "owner": "HESS, RYAN R",
+      "amount": 27893.48,
+      "deposit_date": "2026-10-30",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 57,
+      "score_reasons": [
+        "$27,893 on deposit (+34)",
+        "Individual former owner (+18)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 27893.48
         }
       ],
       "extra": {},
@@ -6218,61 +5565,6 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
-      "case_number": "03CV013448",
-      "caption": "",
-      "plaintiff": "FR CO TREASURER",
-      "defendants_raw": "FOLDEN, REDITH L.",
-      "owner": "FOLDEN, REDITH L",
-      "amount": 922.57,
-      "deposit_date": "2013-04-17",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": true,
-      "flags": [
-        "Individual owner",
-        "Tax foreclosure",
-        "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 57,
-      "score_reasons": [
-        "Small balance $923 (+2)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 165 months (+12)",
-        "Tax foreclosure \u2014 owner often unrepresented (+5)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 922.57
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "3184 DALE AVE"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
       "case_number": "14CV010126",
       "caption": "",
       "plaintiff": "FRANKLIN COUNTY TREASUREREDWAR",
@@ -6327,61 +5619,6 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
-      "case_number": "16CV007969",
-      "caption": "",
-      "plaintiff": "FRANKLIN COUNTY TREASUREREDWAR",
-      "defendants_raw": "WASHINGTON, ERNEST",
-      "owner": "WASHINGTON, ERNEST",
-      "amount": 1.0,
-      "deposit_date": "2017-12-27",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": true,
-      "flags": [
-        "Individual owner",
-        "Tax foreclosure",
-        "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 57,
-      "score_reasons": [
-        "Small balance $1 (+2)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 107 months (+12)",
-        "Tax foreclosure \u2014 owner often unrepresented (+5)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 1.0
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "733 GLENMOOR DR"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
       "case_number": "23CV002615",
       "caption": "",
       "plaintiff": "NAR OHIO LLC",
@@ -6424,6 +5661,54 @@
         {
           "date": "2026-11-06",
           "amount": 31308.31
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "19CV009660",
+      "caption": "",
+      "plaintiff": "DEUTSCHE BANK NATIONAL TRUST C",
+      "defendants_raw": "MOORE, PATTY S.",
+      "owner": "MOORE, PATTY S",
+      "amount": 9247.06,
+      "deposit_date": "2024-03-22",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "Individual owner",
+        "Unclaimed 1yr+",
+        "New this week"
+      ],
+      "score": 55,
+      "score_reasons": [
+        "$9,247 on deposit (+20)",
+        "Individual former owner (+18)",
+        "Unclaimed 31 months (+12)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 9247.06
         }
       ],
       "extra": {},
@@ -7102,59 +6387,6 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
-      "case_number": "00CV000232",
-      "caption": "",
-      "plaintiff": "GMAC MTG",
-      "defendants_raw": "CHIRAKOS, ANTHONY R.",
-      "owner": "CHIRAKOS, ANTHONY R",
-      "amount": 513.39,
-      "deposit_date": "2020-09-24",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "Individual owner",
-        "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 52,
-      "score_reasons": [
-        "Small balance $513 (+2)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 74 months (+12)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 513.39
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "941 MCCLAIN RD"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
       "case_number": "15CV010648",
       "caption": "",
       "plaintiff": "US BANK NATIONAL ASSOCIATION",
@@ -7254,218 +6486,6 @@
       ],
       "extra": {
         "Auditor name match parcel": "2713 SKELTON LN"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "05CV002354",
-      "caption": "",
-      "plaintiff": "FR CTY TREAS RICHARD CORDRAY",
-      "defendants_raw": "LEWIS, SAMUEL E.",
-      "owner": "LEWIS, SAMUEL E",
-      "amount": 305.61,
-      "deposit_date": "2015-07-17",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "Individual owner",
-        "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 52,
-      "score_reasons": [
-        "Small balance $306 (+2)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 137 months (+12)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 305.61
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "744 WORTH FOREST PL"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "03CV003513",
-      "caption": "",
-      "plaintiff": "DEUTSCHE BANK",
-      "defendants_raw": "WEARS, TIMOTHY L.",
-      "owner": "WEARS, TIMOTHY L",
-      "amount": 211.67,
-      "deposit_date": "2020-11-19",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "Individual owner",
-        "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 52,
-      "score_reasons": [
-        "Small balance $212 (+2)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 72 months (+12)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 211.67
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "715 CHERRY HOLLOW RD"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "17CV006381",
-      "caption": "",
-      "plaintiff": "DEUTSCHE BANK NATIONAL TRUST C",
-      "defendants_raw": "MARTIN, MICHAEL A.",
-      "owner": "MARTIN, MICHAEL A",
-      "amount": 187.3,
-      "deposit_date": "2019-12-04",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "Individual owner",
-        "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 52,
-      "score_reasons": [
-        "Small balance $187 (+2)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 84 months (+12)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 187.3
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "468 GREENHILL DR"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "20CV000621",
-      "caption": "",
-      "plaintiff": "WILMINGTON SAVINGS FUND SOCIET",
-      "defendants_raw": "JONES, NATHANIEL",
-      "owner": "JONES, NATHANIEL",
-      "amount": 157.5,
-      "deposit_date": "2022-09-09",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "Individual owner",
-        "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 52,
-      "score_reasons": [
-        "Small balance $158 (+2)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 50 months (+12)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 157.5
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "5050 STONEYBROOK BL"
       },
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
@@ -7627,112 +6647,6 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
-      "case_number": "19CV010055",
-      "caption": "",
-      "plaintiff": "WAGGONER PARK CONDOMINIUMASSOC",
-      "defendants_raw": "BARKER, TIMOTHY A.",
-      "owner": "BARKER, TIMOTHY A",
-      "amount": 75.0,
-      "deposit_date": "2022-09-09",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "Individual owner",
-        "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 52,
-      "score_reasons": [
-        "Small balance $75 (+2)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 50 months (+12)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 75.0
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "5522 BRESHLY WY"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "16CV010308",
-      "caption": "",
-      "plaintiff": "DEUTSCHE BANK NATIONAL TRUST C",
-      "defendants_raw": "WALNOHA, REBECCA A.",
-      "owner": "WALNOHA, REBECCA A",
-      "amount": 75.0,
-      "deposit_date": "2020-12-17",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "Individual owner",
-        "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 52,
-      "score_reasons": [
-        "Small balance $75 (+2)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 71 months (+12)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 75.0
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "423 KASONS WY"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
       "case_number": "15CV007785",
       "caption": "",
       "plaintiff": "HSBC BANK USA NA",
@@ -7780,59 +6694,6 @@
       ],
       "extra": {
         "Auditor name match parcel": "740 HAWKS CREST LN"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "18CV001402",
-      "caption": "",
-      "plaintiff": "JPMORGAN CHASE BANK NATIONAL",
-      "defendants_raw": "WOLF, HOWARD",
-      "owner": "WOLF, HOWARD",
-      "amount": 2.0,
-      "deposit_date": "2019-08-28",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": false,
-      "flags": [
-        "Individual owner",
-        "Unclaimed 1yr+",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 52,
-      "score_reasons": [
-        "Small balance $2 (+2)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 87 months (+12)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 2.0
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "1780 RIDGEBURY DR"
       },
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
@@ -8074,6 +6935,53 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
+      "case_number": "22CV004678",
+      "caption": "",
+      "plaintiff": "THE BANK OF NEW YORK MELLON TR",
+      "defendants_raw": "GREENE, ELAINE A.",
+      "owner": "GREENE, ELAINE A",
+      "amount": 20316.2,
+      "deposit_date": "2026-11-04",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$10k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 50,
+      "score_reasons": [
+        "$20,316 on deposit (+27)",
+        "Individual former owner (+18)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 20316.2
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
       "case_number": "23CV005017",
       "caption": "",
       "plaintiff": "BLENDON PARK CONDOMINIUMASSOCI",
@@ -8114,6 +7022,53 @@
         {
           "date": "2026-11-06",
           "amount": 15454.52
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "25CV003480",
+      "caption": "",
+      "plaintiff": "US BANK NATIONAL ASSOCIATION",
+      "defendants_raw": "ABTS, DONNA M.",
+      "owner": "ABTS, DONNA M",
+      "amount": 15202.08,
+      "deposit_date": "2026-08-19",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "$10k+ surplus",
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 50,
+      "score_reasons": [
+        "$15,202 on deposit (+27)",
+        "Individual former owner (+18)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 15202.08
         }
       ],
       "extra": {},
@@ -8208,6 +7163,147 @@
         {
           "date": "2026-11-06",
           "amount": 12457.5
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "24CV007751",
+      "caption": "",
+      "plaintiff": "SELENE FINANCE LP",
+      "defendants_raw": "LACLAIR, CATHY A.",
+      "owner": "LACLAIR, CATHY A",
+      "amount": 6474.38,
+      "deposit_date": "2026-01-28",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 50,
+      "score_reasons": [
+        "$6,474 on deposit (+20)",
+        "Individual former owner (+18)",
+        "Unclaimed 9 months (+7)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 6474.38
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "24CV005536",
+      "caption": "",
+      "plaintiff": "CITIBANK NA",
+      "defendants_raw": "WILSON, LEONARD L.",
+      "owner": "WILSON, LEONARD L",
+      "amount": 6292.15,
+      "deposit_date": "2026-03-26",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 50,
+      "score_reasons": [
+        "$6,292 on deposit (+20)",
+        "Individual former owner (+18)",
+        "Unclaimed 7 months (+7)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 6292.15
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "20CV004251",
+      "caption": "",
+      "plaintiff": "MCNAUGHTEN VILLAGE CONDOMINIUM",
+      "defendants_raw": "NETHERY, KAREN S.",
+      "owner": "NETHERY, KAREN S",
+      "amount": 5150.87,
+      "deposit_date": "2026-06-26",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 50,
+      "score_reasons": [
+        "$5,151 on deposit (+20)",
+        "Individual former owner (+18)",
+        "Unclaimed 4 months (+7)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 5150.87
         }
       ],
       "extra": {},
@@ -8697,13 +7793,13 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
-      "case_number": "23CV002877",
+      "case_number": "25CV003201",
       "caption": "",
-      "plaintiff": "AMERIHOME MORTGAGE COMPANY LLC",
-      "defendants_raw": "MYERS, DAWANA R.",
-      "owner": "MYERS, DAWANA R",
-      "amount": 536.64,
-      "deposit_date": "2026-02-17",
+      "plaintiff": "MIDFIRST BANK",
+      "defendants_raw": "BRIGGS, CANDACE A.",
+      "owner": "BRIGGS, CANDACE A",
+      "amount": 2519.48,
+      "deposit_date": "2026-04-09",
       "sale_date": "",
       "row_count": 1,
       "parcel_number": "",
@@ -8711,25 +7807,22 @@
       "prop_city": "",
       "prop_state": "",
       "prop_zip": "",
-      "mail_address": "PO BOX 9202",
-      "mail_city": "COPPELL",
-      "mail_state": "TX",
-      "mail_zip": "75019-9208",
-      "address_source": "Auditor name match (another parcel they own)",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
       "owner_type": "individual",
       "tax_foreclosure": false,
       "flags": [
         "Individual owner",
-        "Out-of-state owner",
-        "New this week",
-        "Auditor name match - verify"
+        "New this week"
       ],
-      "score": 47,
+      "score": 44,
       "score_reasons": [
-        "Small balance $537 (+2)",
+        "$2,519 on deposit (+14)",
         "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Unclaimed 8 months (+7)",
+        "Unclaimed 7 months (+7)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -8739,12 +7832,102 @@
       "amount_history": [
         {
           "date": "2026-11-06",
-          "amount": 536.64
+          "amount": 2519.48
         }
       ],
-      "extra": {
-        "Auditor name match parcel": "1764 MOUND ST"
-      },
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "25CV002804",
+      "caption": "",
+      "plaintiff": "NATIONS DIRECT MORTGAGE LLC",
+      "defendants_raw": "KUPAY, JENNIFER L.",
+      "owner": "KUPAY, JENNIFER L",
+      "amount": 8131.93,
+      "deposit_date": "2026-10-01",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 43,
+      "score_reasons": [
+        "$8,132 on deposit (+20)",
+        "Individual former owner (+18)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 8131.93
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "22CV005925",
+      "caption": "",
+      "plaintiff": "WILMINGTON SAVINGS FUND SOCIET",
+      "defendants_raw": "REED, BRANDI",
+      "owner": "REED, BRANDI",
+      "amount": 7330.44,
+      "deposit_date": "2026-10-20",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 43,
+      "score_reasons": [
+        "$7,330 on deposit (+20)",
+        "Individual former owner (+18)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 7330.44
+        }
+      ],
+      "extra": {},
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
@@ -8788,6 +7971,52 @@
         {
           "date": "2026-11-06",
           "amount": 6458.91
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "25CV003089",
+      "caption": "",
+      "plaintiff": "DEUTSCHE BANK NATIONAL TRUST C",
+      "defendants_raw": "CLOVER, FRANK",
+      "owner": "CLOVER, FRANK",
+      "amount": 5258.61,
+      "deposit_date": "2026-08-20",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 43,
+      "score_reasons": [
+        "$5,259 on deposit (+20)",
+        "Individual former owner (+18)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 5258.61
         }
       ],
       "extra": {},
@@ -9368,6 +8597,56 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
+      "case_number": "03CV013448",
+      "caption": "",
+      "plaintiff": "FR CO TREASURER",
+      "defendants_raw": "FOLDEN, REDITH L.",
+      "owner": "FOLDEN, REDITH L",
+      "amount": 922.57,
+      "deposit_date": "2013-04-17",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": true,
+      "flags": [
+        "Individual owner",
+        "Tax foreclosure",
+        "Unclaimed 1yr+",
+        "New this week"
+      ],
+      "score": 42,
+      "score_reasons": [
+        "Small balance $923 (+2)",
+        "Individual former owner (+18)",
+        "Unclaimed 165 months (+12)",
+        "Tax foreclosure \u2014 owner often unrepresented (+5)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 922.57
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
       "case_number": "17CV002393",
       "caption": "",
       "plaintiff": "FRANKLIN COUNTY TREASURER",
@@ -9861,6 +9140,56 @@
         {
           "date": "2026-11-06",
           "amount": 2.0
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "16CV007969",
+      "caption": "",
+      "plaintiff": "FRANKLIN COUNTY TREASUREREDWAR",
+      "defendants_raw": "WASHINGTON, ERNEST",
+      "owner": "WASHINGTON, ERNEST",
+      "amount": 1.0,
+      "deposit_date": "2017-12-27",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": true,
+      "flags": [
+        "Individual owner",
+        "Tax foreclosure",
+        "Unclaimed 1yr+",
+        "New this week"
+      ],
+      "score": 42,
+      "score_reasons": [
+        "Small balance $1 (+2)",
+        "Individual former owner (+18)",
+        "Unclaimed 107 months (+12)",
+        "Tax foreclosure \u2014 owner often unrepresented (+5)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 1.0
         }
       ],
       "extra": {},
@@ -10733,6 +10062,54 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
+      "case_number": "00CV000232",
+      "caption": "",
+      "plaintiff": "GMAC MTG",
+      "defendants_raw": "CHIRAKOS, ANTHONY R.",
+      "owner": "CHIRAKOS, ANTHONY R",
+      "amount": 513.39,
+      "deposit_date": "2020-09-24",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "Individual owner",
+        "Unclaimed 1yr+",
+        "New this week"
+      ],
+      "score": 37,
+      "score_reasons": [
+        "Small balance $513 (+2)",
+        "Individual former owner (+18)",
+        "Unclaimed 74 months (+12)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 513.39
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
       "case_number": "03CV004175",
       "caption": "",
       "plaintiff": "FEDERAL NATIONAL MORTGAGE",
@@ -11117,6 +10494,54 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
+      "case_number": "05CV002354",
+      "caption": "",
+      "plaintiff": "FR CTY TREAS RICHARD CORDRAY",
+      "defendants_raw": "LEWIS, SAMUEL E.",
+      "owner": "LEWIS, SAMUEL E",
+      "amount": 305.61,
+      "deposit_date": "2015-07-17",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "Individual owner",
+        "Unclaimed 1yr+",
+        "New this week"
+      ],
+      "score": 37,
+      "score_reasons": [
+        "Small balance $306 (+2)",
+        "Individual former owner (+18)",
+        "Unclaimed 137 months (+12)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 305.61
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
       "case_number": "01CV001675",
       "caption": "",
       "plaintiff": "BANKERS TRUST OF CALIF",
@@ -11405,6 +10830,102 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
+      "case_number": "03CV003513",
+      "caption": "",
+      "plaintiff": "DEUTSCHE BANK",
+      "defendants_raw": "WEARS, TIMOTHY L.",
+      "owner": "WEARS, TIMOTHY L",
+      "amount": 211.67,
+      "deposit_date": "2020-11-19",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "Individual owner",
+        "Unclaimed 1yr+",
+        "New this week"
+      ],
+      "score": 37,
+      "score_reasons": [
+        "Small balance $212 (+2)",
+        "Individual former owner (+18)",
+        "Unclaimed 72 months (+12)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 211.67
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "17CV006381",
+      "caption": "",
+      "plaintiff": "DEUTSCHE BANK NATIONAL TRUST C",
+      "defendants_raw": "MARTIN, MICHAEL A.",
+      "owner": "MARTIN, MICHAEL A",
+      "amount": 187.3,
+      "deposit_date": "2019-12-04",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "Individual owner",
+        "Unclaimed 1yr+",
+        "New this week"
+      ],
+      "score": 37,
+      "score_reasons": [
+        "Small balance $187 (+2)",
+        "Individual former owner (+18)",
+        "Unclaimed 84 months (+12)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 187.3
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
       "case_number": "17CV008834",
       "caption": "",
       "plaintiff": "NATIONSTAR MORTGAGE LLC",
@@ -11676,6 +11197,54 @@
         "Small balance $158 (+2)",
         "Individual former owner (+18)",
         "Unclaimed 31 months (+12)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 157.5
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "20CV000621",
+      "caption": "",
+      "plaintiff": "WILMINGTON SAVINGS FUND SOCIET",
+      "defendants_raw": "JONES, NATHANIEL",
+      "owner": "JONES, NATHANIEL",
+      "amount": 157.5,
+      "deposit_date": "2022-09-09",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "Individual owner",
+        "Unclaimed 1yr+",
+        "New this week"
+      ],
+      "score": 37,
+      "score_reasons": [
+        "Small balance $158 (+2)",
+        "Individual former owner (+18)",
+        "Unclaimed 50 months (+12)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -12557,6 +12126,54 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
+      "case_number": "19CV010055",
+      "caption": "",
+      "plaintiff": "WAGGONER PARK CONDOMINIUMASSOC",
+      "defendants_raw": "BARKER, TIMOTHY A.",
+      "owner": "BARKER, TIMOTHY A",
+      "amount": 75.0,
+      "deposit_date": "2022-09-09",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "Individual owner",
+        "Unclaimed 1yr+",
+        "New this week"
+      ],
+      "score": 37,
+      "score_reasons": [
+        "Small balance $75 (+2)",
+        "Individual former owner (+18)",
+        "Unclaimed 50 months (+12)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 75.0
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
       "case_number": "05CV006249",
       "caption": "",
       "plaintiff": "WELLS FARGO BANK NA",
@@ -12636,6 +12253,54 @@
         "Small balance $75 (+2)",
         "Individual former owner (+18)",
         "Unclaimed 56 months (+12)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 75.0
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "16CV010308",
+      "caption": "",
+      "plaintiff": "DEUTSCHE BANK NATIONAL TRUST C",
+      "defendants_raw": "WALNOHA, REBECCA A.",
+      "owner": "WALNOHA, REBECCA A",
+      "amount": 75.0,
+      "deposit_date": "2020-12-17",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "Individual owner",
+        "Unclaimed 1yr+",
+        "New this week"
+      ],
+      "score": 37,
+      "score_reasons": [
+        "Small balance $75 (+2)",
+        "Individual former owner (+18)",
+        "Unclaimed 71 months (+12)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
@@ -13181,6 +12846,54 @@
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
     },
     {
+      "case_number": "18CV001402",
+      "caption": "",
+      "plaintiff": "JPMORGAN CHASE BANK NATIONAL",
+      "defendants_raw": "WOLF, HOWARD",
+      "owner": "WOLF, HOWARD",
+      "amount": 2.0,
+      "deposit_date": "2019-08-28",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "Individual owner",
+        "Unclaimed 1yr+",
+        "New this week"
+      ],
+      "score": 37,
+      "score_reasons": [
+        "Small balance $2 (+2)",
+        "Individual former owner (+18)",
+        "Unclaimed 87 months (+12)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 2.0
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
       "case_number": "18CV009296",
       "caption": "",
       "plaintiff": "HUNTINGTON NATIONAL BANK",
@@ -13318,6 +13031,53 @@
         {
           "date": "2026-11-06",
           "amount": 3955.79
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "23CV002877",
+      "caption": "",
+      "plaintiff": "AMERIHOME MORTGAGE COMPANY LLC",
+      "defendants_raw": "MYERS, DAWANA R.",
+      "owner": "MYERS, DAWANA R",
+      "amount": 536.64,
+      "deposit_date": "2026-02-17",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "individual",
+      "tax_foreclosure": false,
+      "flags": [
+        "Individual owner",
+        "New this week"
+      ],
+      "score": 32,
+      "score_reasons": [
+        "Small balance $537 (+2)",
+        "Individual former owner (+18)",
+        "Unclaimed 8 months (+7)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 536.64
         }
       ],
       "extra": {},
