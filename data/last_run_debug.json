@@ -1,0 +1,34 @@
+{
+  "started": "2026-11-06T22:30:53.247348+00:00",
+  "sheet": {
+    "name": "ExcessSalesProceeds",
+    "header_row": 3,
+    "headers": [
+      "Case Number",
+      "Plaintiff",
+      "Defendant",
+      "Date of Activity",
+      "SP Balance"
+    ],
+    "mapping": {
+      "case_number": "Case Number",
+      "plaintiff": "Plaintiff",
+      "defendant": "Defendant",
+      "amount": "SP Balance",
+      "deposit_date": "Date of Activity"
+    },
+    "rows": 280
+  },
+  "parcel_matches": {
+    "parcel": 0,
+    "name": 75
+  },
+  "output": {
+    "total_leads": 279,
+    "total_surplus": 7887536.27,
+    "leads_with_mailing_address": 75,
+    "leads_with_property_address": 0,
+    "new_this_run": 279,
+    "no_longer_listed": 0
+  }
+}
