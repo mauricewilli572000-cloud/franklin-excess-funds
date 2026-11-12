@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T17:15:10+00:00",
+  "generated_at": "2026-11-12T17:38:55+00:00",
   "source": "Franklin County Clerk of Courts \u2014 Excess Sales Proceeds",
   "source_page": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
   "source_file": "https://clerk.franklincountyohio.gov/files/assets/clerkofcourt/v/1/documents/public-financial-records/excesssalesproceeds.xlsx",
@@ -48,7 +48,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -59,6 +59,60 @@
       ],
       "extra": {
         "Auditor name match parcel": "122 S RICHARDSON AVE"
+      },
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "25CV001983",
+      "caption": "",
+      "plaintiff": "FRANKLIN COUNTY TREASURER",
+      "defendants_raw": "RHODES, GERALD K.",
+      "owner": "RHODES, GERALD K",
+      "amount": 71804.89,
+      "deposit_date": "2026-07-15",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "1486 DEMOREST RD",
+      "mail_city": "COLUMBUS",
+      "mail_state": "OH",
+      "mail_zip": "43228-3745",
+      "address_source": "Auditor name match (another parcel they own)",
+      "owner_type": "individual",
+      "tax_foreclosure": true,
+      "flags": [
+        "$25k+ surplus",
+        "Individual owner",
+        "Tax foreclosure",
+        "New this week",
+        "Auditor name match - verify"
+      ],
+      "score": 90,
+      "score_reasons": [
+        "$71,805 on deposit (+40)",
+        "Individual former owner (+18)",
+        "Mailing address found (+15)",
+        "Unclaimed 4 months (+7)",
+        "Tax foreclosure \u2014 owner often unrepresented (+5)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-12",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 71804.89
+        }
+      ],
+      "extra": {
+        "Auditor name match parcel": "2786 N AUDUBON RD"
       },
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
@@ -102,7 +156,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -155,7 +209,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -207,7 +261,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -259,7 +313,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -313,7 +367,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -324,59 +378,6 @@
       ],
       "extra": {
         "Auditor name match parcel": "2156 N GERBERT RD"
-      },
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "25CV001983",
-      "caption": "",
-      "plaintiff": "FRANKLIN COUNTY TREASURER",
-      "defendants_raw": "RHODES, GERALD K.",
-      "owner": "RHODES, GERALD K",
-      "amount": 71804.89,
-      "deposit_date": "2026-07-15",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "1486 DEMOREST RD",
-      "mail_city": "COLUMBUS",
-      "mail_state": "OH",
-      "mail_zip": "43228-3745",
-      "address_source": "Auditor name match (another parcel they own)",
-      "owner_type": "individual",
-      "tax_foreclosure": true,
-      "flags": [
-        "$25k+ surplus",
-        "Individual owner",
-        "Tax foreclosure",
-        "New this week",
-        "Auditor name match - verify"
-      ],
-      "score": 83,
-      "score_reasons": [
-        "$71,805 on deposit (+40)",
-        "Individual former owner (+18)",
-        "Mailing address found (+15)",
-        "Tax foreclosure \u2014 owner often unrepresented (+5)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 71804.89
-        }
-      ],
-      "extra": {
-        "Auditor name match parcel": "2786 N AUDUBON RD"
       },
       "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
       "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
@@ -417,7 +418,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -466,7 +467,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -515,7 +516,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -564,7 +565,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -613,7 +614,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -664,7 +665,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -715,7 +716,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -766,7 +767,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -817,7 +818,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -868,7 +869,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -921,7 +922,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -972,7 +973,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -1021,7 +1022,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -1070,7 +1071,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -1119,7 +1120,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -1168,7 +1169,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -1218,7 +1219,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -1267,13 +1268,61 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
         {
           "date": "2026-11-06",
           "amount": 55830.69
+        }
+      ],
+      "extra": {},
+      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
+      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
+    },
+    {
+      "case_number": "25CV003107",
+      "caption": "",
+      "plaintiff": "FEDERAL HOME LOAN MORTGAGE COR",
+      "defendants_raw": "UNKNOWN HEIRS OF JULIA E, BOWMAN DECEASE D.",
+      "owner": "JULIA E, BOWMAN DECEASE D",
+      "amount": 86386.83,
+      "deposit_date": "2026-07-15",
+      "sale_date": "",
+      "row_count": 1,
+      "parcel_number": "",
+      "prop_address": "",
+      "prop_city": "",
+      "prop_state": "",
+      "prop_zip": "",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "address_source": "",
+      "owner_type": "estate",
+      "tax_foreclosure": false,
+      "flags": [
+        "$25k+ surplus",
+        "Estate / heirs",
+        "New this week"
+      ],
+      "score": 74,
+      "score_reasons": [
+        "$86,387 on deposit (+40)",
+        "Estate / heirs \u2014 owner likely unaware (+22)",
+        "Unclaimed 4 months (+7)",
+        "New on the list this week (+5)"
+      ],
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-12",
+      "status": "active",
+      "removed_date": "",
+      "amount_history": [
+        {
+          "date": "2026-11-06",
+          "amount": 86386.83
         }
       ],
       "extra": {},
@@ -1316,7 +1365,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -1367,7 +1416,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -1417,7 +1466,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -1465,7 +1514,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -1513,7 +1562,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -1561,7 +1610,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -1609,7 +1658,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -1657,7 +1706,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -1705,7 +1754,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -1753,7 +1802,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -1801,7 +1850,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -1849,7 +1898,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -1897,7 +1946,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -1945,7 +1994,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -1993,7 +2042,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -2041,7 +2090,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -2092,7 +2141,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -2143,7 +2192,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -2192,7 +2241,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -2241,7 +2290,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -2289,7 +2338,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -2337,7 +2386,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -2385,7 +2434,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -2433,7 +2482,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -2480,60 +2529,13 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
         {
           "date": "2026-11-06",
           "amount": 102972.25
-        }
-      ],
-      "extra": {},
-      "source_url": "https://clerk.franklincountyohio.gov/Public-Records/Public-Financial-Records/Excess-Sales-Proceeds",
-      "case_search_url": "https://fcdcfcjs.co.franklin.oh.us/CaseInformationOnline/"
-    },
-    {
-      "case_number": "25CV003107",
-      "caption": "",
-      "plaintiff": "FEDERAL HOME LOAN MORTGAGE COR",
-      "defendants_raw": "UNKNOWN HEIRS OF JULIA E, BOWMAN DECEASE D.",
-      "owner": "JULIA E, BOWMAN DECEASE D",
-      "amount": 86386.83,
-      "deposit_date": "2026-07-15",
-      "sale_date": "",
-      "row_count": 1,
-      "parcel_number": "",
-      "prop_address": "",
-      "prop_city": "",
-      "prop_state": "",
-      "prop_zip": "",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "address_source": "",
-      "owner_type": "estate",
-      "tax_foreclosure": false,
-      "flags": [
-        "$25k+ surplus",
-        "Estate / heirs",
-        "New this week"
-      ],
-      "score": 67,
-      "score_reasons": [
-        "$86,387 on deposit (+40)",
-        "Estate / heirs \u2014 owner likely unaware (+22)",
-        "New on the list this week (+5)"
-      ],
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
-      "status": "active",
-      "removed_date": "",
-      "amount_history": [
-        {
-          "date": "2026-11-06",
-          "amount": 86386.83
         }
       ],
       "extra": {},
@@ -2574,7 +2576,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -2621,7 +2623,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -2668,7 +2670,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -2715,7 +2717,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -2762,7 +2764,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -2813,7 +2815,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -2862,7 +2864,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -2911,7 +2913,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -2960,7 +2962,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -3010,7 +3012,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -3058,7 +3060,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -3106,7 +3108,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -3154,7 +3156,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -3202,7 +3204,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -3250,7 +3252,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -3297,7 +3299,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -3344,7 +3346,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -3391,7 +3393,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -3438,7 +3440,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -3485,7 +3487,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -3532,7 +3534,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -3579,7 +3581,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -3626,7 +3628,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -3673,7 +3675,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -3720,7 +3722,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -3767,7 +3769,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -3814,7 +3816,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -3861,7 +3863,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -3908,7 +3910,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -3960,7 +3962,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -4011,7 +4013,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -4060,7 +4062,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -4109,7 +4111,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -4158,7 +4160,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -4207,7 +4209,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -4256,7 +4258,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -4305,7 +4307,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -4354,7 +4356,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -4401,7 +4403,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -4448,7 +4450,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -4495,7 +4497,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -4543,7 +4545,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -4593,7 +4595,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -4643,7 +4645,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -4693,7 +4695,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -4741,7 +4743,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -4789,7 +4791,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -4839,7 +4841,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -4887,7 +4889,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -4935,7 +4937,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -4982,7 +4984,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -5029,7 +5031,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -5076,7 +5078,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -5123,7 +5125,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -5170,7 +5172,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -5217,7 +5219,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -5264,7 +5266,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -5311,7 +5313,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -5359,7 +5361,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -5407,7 +5409,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -5455,7 +5457,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -5503,7 +5505,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -5551,7 +5553,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -5603,7 +5605,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -5655,7 +5657,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -5704,7 +5706,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -5752,7 +5754,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -5800,7 +5802,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -5848,7 +5850,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -5896,7 +5898,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -5944,7 +5946,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -5992,7 +5994,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -6040,7 +6042,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -6088,7 +6090,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -6135,7 +6137,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -6182,7 +6184,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -6229,7 +6231,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -6276,7 +6278,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -6323,7 +6325,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -6373,7 +6375,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -6423,7 +6425,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -6473,7 +6475,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -6525,7 +6527,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -6577,7 +6579,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -6629,7 +6631,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -6681,7 +6683,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -6733,7 +6735,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -6783,7 +6785,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -6830,7 +6832,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -6877,7 +6879,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -6924,7 +6926,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -6971,7 +6973,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -7018,7 +7020,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -7065,7 +7067,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -7112,7 +7114,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -7159,7 +7161,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -7206,7 +7208,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -7253,7 +7255,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -7300,7 +7302,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -7347,7 +7349,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -7394,7 +7396,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -7443,7 +7445,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -7491,7 +7493,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -7539,7 +7541,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -7587,7 +7589,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -7635,7 +7637,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -7683,7 +7685,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -7731,7 +7733,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -7781,7 +7783,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -7827,7 +7829,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -7874,7 +7876,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -7920,7 +7922,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -7966,7 +7968,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -8012,7 +8014,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -8058,7 +8060,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -8106,7 +8108,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -8154,7 +8156,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -8202,7 +8204,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -8250,7 +8252,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -8298,7 +8300,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -8346,7 +8348,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -8394,7 +8396,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -8442,7 +8444,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -8486,11 +8488,11 @@
       "score_reasons": [
         "$1,165 on deposit (+8)",
         "Individual former owner (+18)",
-        "Unclaimed 62 months (+12)",
+        "Unclaimed 63 months (+12)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -8538,7 +8540,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -8585,7 +8587,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -8635,7 +8637,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -8685,7 +8687,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -8735,7 +8737,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -8785,7 +8787,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -8835,7 +8837,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -8885,7 +8887,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -8935,7 +8937,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -8985,7 +8987,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -9030,12 +9032,12 @@
       "score_reasons": [
         "Small balance $22 (+2)",
         "Individual former owner (+18)",
-        "Unclaimed 101 months (+12)",
+        "Unclaimed 102 months (+12)",
         "Tax foreclosure \u2014 owner often unrepresented (+5)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -9085,7 +9087,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -9135,7 +9137,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -9185,7 +9187,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -9235,7 +9237,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -9285,7 +9287,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -9333,7 +9335,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -9380,7 +9382,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -9426,7 +9428,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -9474,7 +9476,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -9522,7 +9524,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -9570,7 +9572,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -9618,7 +9620,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -9666,7 +9668,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -9714,7 +9716,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -9762,7 +9764,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -9810,7 +9812,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -9858,7 +9860,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -9906,7 +9908,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -9954,7 +9956,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -10002,7 +10004,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -10050,7 +10052,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -10098,7 +10100,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -10146,7 +10148,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -10194,7 +10196,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -10242,7 +10244,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -10290,7 +10292,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -10338,7 +10340,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -10386,7 +10388,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -10434,7 +10436,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -10482,7 +10484,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -10530,7 +10532,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -10578,7 +10580,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -10626,7 +10628,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -10674,7 +10676,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -10722,7 +10724,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -10770,7 +10772,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -10818,7 +10820,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -10866,7 +10868,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -10914,7 +10916,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -10962,7 +10964,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -11010,7 +11012,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -11058,7 +11060,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -11106,7 +11108,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -11154,7 +11156,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -11202,7 +11204,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -11250,7 +11252,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -11298,7 +11300,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -11346,7 +11348,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -11394,7 +11396,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -11442,7 +11444,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -11490,7 +11492,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -11538,7 +11540,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -11586,7 +11588,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -11634,7 +11636,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -11682,7 +11684,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -11730,7 +11732,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -11778,7 +11780,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -11826,7 +11828,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -11874,7 +11876,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -11922,7 +11924,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -11970,7 +11972,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -12018,7 +12020,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -12066,7 +12068,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -12114,7 +12116,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -12162,7 +12164,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -12210,7 +12212,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -12258,7 +12260,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -12306,7 +12308,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -12354,7 +12356,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -12402,7 +12404,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -12450,7 +12452,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -12498,7 +12500,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -12546,7 +12548,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -12594,7 +12596,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -12642,7 +12644,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -12690,7 +12692,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -12738,7 +12740,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -12786,7 +12788,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -12834,7 +12836,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -12882,7 +12884,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -12930,7 +12932,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -12978,7 +12980,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -13026,7 +13028,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -13073,7 +13075,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -13123,7 +13125,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -13173,7 +13175,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -13223,7 +13225,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -13271,7 +13273,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -13315,11 +13317,11 @@
       "score_reasons": [
         "Small balance $469 (+2)",
         "LLC / company owner (+5)",
-        "Unclaimed 72 months (+12)",
+        "Unclaimed 73 months (+12)",
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -13367,7 +13369,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -13415,7 +13417,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -13463,7 +13465,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
@@ -13511,7 +13513,7 @@
         "New on the list this week (+5)"
       ],
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "status": "active",
       "removed_date": "",
       "amount_history": [
